@@ -563,9 +563,11 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/fightsport/manifest.mpd
 https://qp-pldt-live-grp-08-prod.akamaized.net/out/u/truefm_tv.mpd
 
 
+#EXTM3U
 
+````````PH RADIO CHANNELS````````
 
-
+#EXTINF:-1 group-logo=:"https://icon-library.com/images/2018/1038789_kenwood-logo-hd-radio-logo-png-transparent-png.png"
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="14.3 Global Online Radio" tvg-logo="" group-title="PH RADIO CHANNELS",14.3 Global Online Radio
 http://65.108.124.70:8255/stream
@@ -765,16 +767,12 @@ http://loveradiocebu.radioca.st/
 http://loveradiodaet.radioca.st:8804/stream
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Love Radio Dagupan" tvg-logo="" group-title="PH RADIO CHANNELS",Love Radio Dagupan
 http://loveradiodagupan.radioca.st:8195/stream
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Love Radio Iloilo" tvg-logo="" group-title="PH RADIO CHANNELS",Love Radio Iloilo
-http://loveradioiloilo.radioca.st/
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Love Radio Legaspi" tvg-logo="" group-title="PH RADIO CHANNELS",Love Radio Legaspi
 http://loveradiolegaspi.radioca.st/
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Love Radio Lucena" tvg-logo="" group-title="PH RADIO CHANNELS",Love Radio Lucena
 http://loveradiolucena.radioca.st:8158/stream
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Love Radio Malaybalay" tvg-logo="" group-title="PH RADIO CHANNELS",Love Radio Malaybalay
 http://lovemalaybalay.radioca.st:8828/stream
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Love Radio Manila 90.7 FM" tvg-logo="" group-title="PH RADIO CHANNELS",Love Radio Manila 90.7 FM
-http://s3.radio.co/sd43d6cc6d/listen
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Love Radio Naga" tvg-logo="" group-title="PH RADIO CHANNELS",Love Radio Naga
 http://loveradionaga.radioca.st:8070/stream
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Love Radio Palawan" tvg-logo="" group-title="PH RADIO CHANNELS",Love Radio Palawan
@@ -795,40 +793,22 @@ http://lovetuguegarao.radioca.st:8086/stream
 http://lovezamboanga.radioca.st:8157/stream
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Love Radyo Laoag" tvg-logo="" group-title="PH RADIO CHANNELS",Love Radyo Laoag
 http://loveradiolaoag.radioca.st/
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Lovesick versus Dollars FM – Manila – National Capital Region – PH" tvg-logo="" group-title="PH RADIO CHANNELS",Lovesick versus Dollars FM – Manila – National Capital Region – PH
-http://centova57.instainternet.com:8099/stream
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LTM Radio Philippines" tvg-logo="" group-title="PH RADIO CHANNELS",LTM Radio Philippines
 http://cast4.my-control-panel.com:7396/stream
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Manila Bay Beach Radio" tvg-logo="" group-title="PH RADIO CHANNELS",Manila Bay Beach Radio
 https://s4.radio.co/sd319ba2a4/listen
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mapua Radio Cardinal" tvg-logo="" group-title="PH RADIO CHANNELS",Mapua Radio Cardinal
 http://edge.mixlr.com/channel/nhtli
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mapúa Radio Cardinal – Manila – National Capital Region – PH" tvg-logo="" group-title="PH RADIO CHANNELS",Mapúa Radio Cardinal – Manila – National Capital Region – PH
-https://edge.mixlr.com/channel/nhtli
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mellow 94.7 FM" tvg-logo="" group-title="PH RADIO CHANNELS",Mellow 94.7 FM
-http://s3.free-shoutcast.com:18342/
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mellow 94.7 FM – 94.7 FM – Mandaluyong City – National Capital Region – PH" tvg-logo="" group-title="PH RADIO CHANNELS",Mellow 94.7 FM – 94.7 FM – Mandaluyong City – National Capital Region – PH
-https://s3.free-shoutcast.com/stream/18342/?type=http&nocache=40
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Memories FM 89.9" tvg-logo="" group-title="PH RADIO CHANNELS",Memories FM 89.9
 http://s5.reliastream.com:7134/stream
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mixx Radio Fm" tvg-logo="" group-title="PH RADIO CHANNELS",Mixx Radio Fm
-http://mixxradiodjsonline.listen2myradio.com/
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MONKEY RADIO WFM – Makati City – National Capital Region – PH" tvg-logo="" group-title="PH RADIO CHANNELS",MONKEY RADIO WFM – Makati City – National Capital Region – PH
 https://cast3.bntworxtv.com:8010/stream
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MSFM 105.3 – 105.3 FM – Catbalogan – Eastern Visayas – PH" tvg-logo="" group-title="PH RADIO CHANNELS",MSFM 105.3 – 105.3 FM – Catbalogan – Eastern Visayas – PH
-http://209.126.105.44:8219/stream
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUAH FM radio" tvg-logo="" group-title="PH RADIO CHANNELS",MUAH FM radio
-https://stream.hornhost.com/8102/stream
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Music Tambayan" tvg-logo="" group-title="PH RADIO CHANNELS",Music Tambayan
 https://dharkgfx.com/radio/8000/radio.mp3
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MystFM925" tvg-logo="" group-title="PH RADIO CHANNELS",MystFM925
 http://eu8.fastcast4u.com:21123/stream
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="OK-FM 97.5 DZOK-FM" tvg-logo="" group-title="PH RADIO CHANNELS",OK-FM 97.5 DZOK-FM
-http://120.28.221.139:8000/stream
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ONE FM – Manila – National Capital Region – PH" tvg-logo="" group-title="PH RADIO CHANNELS",ONE FM – Manila – National Capital Region – PH
 http://radio3.reans.net:8030/radio.mp3
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="OperaHouseFM101 radio" tvg-logo="" group-title="PH RADIO CHANNELS",OperaHouseFM101 radio
-https://radio.hornhost.com/8052/stream
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Party Rock FM" tvg-logo="" group-title="PH RADIO CHANNELS",Party Rock FM
 https://radio21.streamabc.net/radio21-partyrock-mp3-256-7707367
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PHR 80.9 FM" tvg-logo="" group-title="PH RADIO CHANNELS",PHR 80.9 FM
@@ -837,38 +817,22 @@ https://djsamu.radioca.st/stream.nsv
 http://philae.shoutca.st:8188
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pinoy DJ Radio – PH" tvg-logo="" group-title="PH RADIO CHANNELS",Pinoy DJ Radio – PH
 http://usa4.fastcast4u.com:5276/
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pinoy Global Stream – Manila – National Capital Region – PH" tvg-logo="" group-title="PH RADIO CHANNELS",Pinoy Global Stream – Manila – National Capital Region – PH
-https://stream.zenolive.com/qunkzrt2qvduv.pls
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pinoy Jutsu FM 99.6 radio" tvg-logo="" group-title="PH RADIO CHANNELS",Pinoy Jutsu FM 99.6 radio
 https://cast3.bntworxtv.com/listen/frambulan/stream
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pinoy Radio – Filipino Radio – PH" tvg-logo="" group-title="PH RADIO CHANNELS",Pinoy Radio – Filipino Radio – PH
-https://usa5.fastcast4u.com:2199/tunein/-stream/mcbnprc.pls
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pinoy Rap Radio" tvg-logo="" group-title="PH RADIO CHANNELS",Pinoy Rap Radio
 http://sp2.streams.ovh/8004/stream/stream/1
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="POP Radio" tvg-logo="" group-title="PH RADIO CHANNELS",POP Radio
 http://ssl.geckohost.nz:9267/stream
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="POP Radio – Manila – National Capital Region – PH" tvg-logo="" group-title="PH RADIO CHANNELS",POP Radio – Manila – National Capital Region – PH
 https://popvip-gecko.radioca.st/stream
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PRIMAP 108 FM – 108 FM – PH" tvg-logo="" group-title="PH RADIO CHANNELS",PRIMAP 108 FM – 108 FM – PH
-https://zeno.fm/radio/primap-108-fm/
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radical Edge" tvg-logo="" group-title="PH RADIO CHANNELS",Radical Edge
-http://www.radicaledge.listen2myradio.com
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Caritas Mariae 98.3 - DWRV" tvg-logo="" group-title="PH RADIO CHANNELS",Radio Caritas Mariae 98.3 - DWRV
-http://centova57.instainternet.com:8197/stream
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Maria Philippines" tvg-logo="" group-title="PH RADIO CHANNELS",Radio Maria Philippines
 http://dreamsiteradiocp2.com:8052/stream.mp3
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Maria Philippines 102.1 FM" tvg-logo="" group-title="PH RADIO CHANNELS",Radio Maria Philippines 102.1 FM
 http://dreamsiteradiocp2.com:8052/
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio NE FM 100.3 – 100.3 FM – Cabanatuan City – Central Luzon – PH" tvg-logo="" group-title="PH RADIO CHANNELS",Radio NE FM 100.3 – 100.3 FM – Cabanatuan City – Central Luzon – PH
-https://stream.zenolive.com/k2uz08e71ueuv.pls
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radio Tamaraw Online" tvg-logo="" group-title="PH RADIO CHANNELS",Radio Tamaraw Online
 http://audiostreamen.nl:8006/
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radyo Bandera Iloilo - DYKU" tvg-logo="" group-title="PH RADIO CHANNELS",Radyo Bandera Iloilo - DYKU
 http://209.126.124.126:8647/live
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radyo Katipunan – Quezon City – National Capital Region – PH" tvg-logo="" group-title="PH RADIO CHANNELS",Radyo Katipunan – Quezon City – National Capital Region – PH
-https://listen.shoutcast.com/radyokatipunan.m3u
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radyo Lipenio - RLNewsFM" tvg-logo="" group-title="PH RADIO CHANNELS",Radyo Lipenio - RLNewsFM
-http://stream.zeno.fm/3ninviiwep8uv.m3u
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radyo Magkaisa 98.1 FM" tvg-logo="" group-title="PH RADIO CHANNELS",Radyo Magkaisa 98.1 FM
 http://s32.myradiostream.com:7202/
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Radyo Natin - Pinamalayan radio" tvg-logo="" group-title="PH RADIO CHANNELS",Radyo Natin - Pinamalayan radio
@@ -889,52 +853,26 @@ http://us1.amfmph.com:8011/live
 https://us1.amfmph.com:8011/mp3
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rock109" tvg-logo="" group-title="PH RADIO CHANNELS",Rock109
 http://listen.classicrock109.com:10042/
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rpm Net Radio" tvg-logo="" group-title="PH RADIO CHANNELS",Rpm Net Radio
-http://station.voscast.com/522ea9678af62/
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RPN-DXKS Surigao - DXKS" tvg-logo="" group-title="PH RADIO CHANNELS",RPN-DXKS Surigao - DXKS
 http://dxks-rpnradio.radioca.st:8448/stream
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RVFM radio" tvg-logo="" group-title="PH RADIO CHANNELS",RVFM radio
 https://a3.asurahosting.com:6160/radio.mp3
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sabik FM" tvg-logo="" group-title="PH RADIO CHANNELS",Sabik FM
 http://nebula.shoutca.st:8334/
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Saved radio" tvg-logo="" group-title="PH RADIO CHANNELS",Saved radio
-https://s5.radio.co/sc068be842/listen
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Seduction Dance Tunes Radio" tvg-logo="" group-title="PH RADIO CHANNELS",Seduction Dance Tunes Radio
-https://24streams.gr/8057/stream
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Slowly Radio" tvg-logo="" group-title="PH RADIO CHANNELS",Slowly Radio
 https://listen.radioking.com/radio/421816/stream/476452
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Smash FM" tvg-logo="" group-title="PH RADIO CHANNELS",Smash FM
-http://centova57.instainternet.com:8197/
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Soundtrip Radio Philippines" tvg-logo="" group-title="PH RADIO CHANNELS",Soundtrip Radio Philippines
-https://cast.jomarhost.com:8000/radio.mp3
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Soundwave 88.8 – 88.8 FM – PH" tvg-logo="" group-title="PH RADIO CHANNELS",Soundwave 88.8 – 88.8 FM – PH
 https://cast.bntworxtv.com/radio/8020/stream
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Spirit FM 101.7 – 101.7 FM – Baler – Central Luzon – PH" tvg-logo="" group-title="PH RADIO CHANNELS",Spirit FM 101.7 – 101.7 FM – Baler – Central Luzon – PH
-https://us1.amfmph.com:8559/stream
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Spirit FM 103.9" tvg-logo="" group-title="PH RADIO CHANNELS",Spirit FM 103.9
 https://popvip-gecko.radioca.st/stream/1/
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SPIRITLOVEFM – Manila – National Capital Region – PH" tvg-logo="" group-title="PH RADIO CHANNELS",SPIRITLOVEFM – Manila – National Capital Region – PH
 https://cast.bntworxtv.com/radio/8030/stream
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sunshine FM Radio" tvg-logo="" group-title="PH RADIO CHANNELS",Sunshine FM Radio
 https://23203.live.streamtheworld.com/4SFM_SC
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Supreme FM 98.1" tvg-logo="" group-title="PH RADIO CHANNELS",Supreme FM 98.1
-http://centova57.instainternet.com:8191/stream
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Supreme Radio 99.7 FM – 99.7 FM – PH" tvg-logo="" group-title="PH RADIO CHANNELS",Supreme Radio 99.7 FM – 99.7 FM – PH
-https://stream.hornhost.com/8046/stream
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SVA Radio – Manila – National Capital Region – PH" tvg-logo="" group-title="PH RADIO CHANNELS",SVA Radio – Manila – National Capital Region – PH
-https://stream.zenolive.com/4uvhk732g9duv.pls
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TeenRadio Global" tvg-logo="" group-title="PH RADIO CHANNELS",TeenRadio Global
-http://radio.org.ph/play/rakista-manila/
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The Ranch FM - DYME-FM" tvg-logo="" group-title="PH RADIO CHANNELS",The Ranch FM - DYME-FM
-http://206.190.130.182:8004/
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TPPFM – Legazpi – Bicol – PH" tvg-logo="" group-title="PH RADIO CHANNELS",TPPFM – Legazpi – Bicol – PH
 http://streamnavs.net:8143/live
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Troy FM" tvg-logo="" group-title="PH RADIO CHANNELS",Troy FM
-https://live.streamguys1.com:2385/troy1
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="True Life In God Radio Filipino" tvg-logo="" group-title="PH RADIO CHANNELS",True Life In God Radio Filipino
 https://stream.tligradio.org/listen/filipino/radio.mp3
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TSSA FM Radio – Singapore – PH" tvg-logo="" group-title="PH RADIO CHANNELS",TSSA FM Radio – Singapore – PH
-https://usa10.fastcast4u.com/tssa
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Uragon Hot Radio 99.8" tvg-logo="" group-title="PH RADIO CHANNELS",Uragon Hot Radio 99.8
 https://eu10.fastcast4u.com/uragon98
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="V Hive Radio" tvg-logo="" group-title="PH RADIO CHANNELS",V Hive Radio
@@ -947,22 +885,10 @@ http://radio.valorfm.net:8030/radio.mp3
 http://192.99.8.192:3154/www.vhiveradio.com/
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vine Radio 88.9 – 88.9 FM – Manila – National Capital Region – PH" tvg-logo="" group-title="PH RADIO CHANNELS",Vine Radio 88.9 – 88.9 FM – Manila – National Capital Region – PH
 http://cast2.my-control-panel.com:8091
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Wave Radio 1120 FM" tvg-logo="" group-title="PH RADIO CHANNELS",Wave Radio 1120 FM
-https://cast.jomarhost.com:8040/radio.mp3
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="WILD HEART FM 97.1 – Manila – National Capital Region – PH" tvg-logo="" group-title="PH RADIO CHANNELS",WILD HEART FM 97.1 – Manila – National Capital Region – PH
 https://eu10.fastcast4u.com/wildheart
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Wish" tvg-logo="" group-title="PH RADIO CHANNELS",Wish
-https://untv.mmdlive.lldns.net/untv/f55dcf9ae0f542d6a7614893d0c2dd83/chunklist_b64000.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Wish FM 107.5 - DWNU" tvg-logo="" group-title="PH RADIO CHANNELS",Wish FM 107.5 - DWNU
-https://untv.mmdlive.lldns.net/untv/f55dcf9ae0f542d6a7614893d0c2dd83/manifest.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Wows Radio Station 91.5 – 91.5 FM – Manila – National Capital Region – PH" tvg-logo="" group-title="PH RADIO CHANNELS",Wows Radio Station 91.5 – 91.5 FM – Manila – National Capital Region – PH
-https://stream.hornhost.com/8022/stream
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XFM 96.7 Bacolod" tvg-logo="" group-title="PH RADIO CHANNELS",XFM 96.7 Bacolod
 http://209.126.124.126:8684/live
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="YES FM 101.1" tvg-logo="" group-title="PH RADIO CHANNELS",YES FM 101.1
-https://s2.radio.co/sa85100da7/listen
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Yes FM 101.1" tvg-logo="" group-title="PH RADIO CHANNELS",Yes FM 101.1
-http://s2.radio.co/sa85100da7/listen
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Yes FM - Boracay" tvg-logo="" group-title="PH RADIO CHANNELS",Yes FM - Boracay
 http://yesfmboracay.radioca.st/
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Yes FM Dagupan 106.3 – 106.3 FM – Dagupan – Cagayan Valley – PH" tvg-logo="" group-title="PH RADIO CHANNELS",Yes FM Dagupan 106.3 – 106.3 FM – Dagupan – Cagayan Valley – PH
@@ -989,8 +915,6 @@ http://yesfmdumaguete.radioca.st:8406/stream
 http://yesfmdumaguete.radioca.st:8406/stream/
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="YES! The Best Iligan 99.3 – 99.3 FM – Iligan City – Soccsksargen – PH" tvg-logo="" group-title="PH RADIO CHANNELS",YES! The Best Iligan 99.3 – 99.3 FM – Iligan City – Soccsksargen – PH
 https://yesfmiligan.radioca.st/
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Yes! The Best Manila" tvg-logo="" group-title="PH RADIO CHANNELS",Yes! The Best Manila
-https://s4.radio.co/s778110174/listen
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="YES! The Best Valencia 104.1 – 104.1 FM – Valencia – Northern Mindanao – PH" tvg-logo="" group-title="PH RADIO CHANNELS",YES! The Best Valencia 104.1 – 104.1 FM – Valencia – Northern Mindanao – PH
 https://yesfmvalencia.radioca.st/
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Yes! The Best Valencia - DXAT" tvg-logo="" group-title="PH RADIO CHANNELS",Yes! The Best Valencia - DXAT
