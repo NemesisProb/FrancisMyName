@@ -1451,3 +1451,82 @@ http://tr.redatvgold.com/play/live.php?mac=00:1A:79:7D:17:D4&stream=1491210&exte
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SP| CANAL+ 4K+/UHD" tvg-logo="http://logo.protv.cc/picons/logos/france/CANAL.png" group-title="4K UHD|3840P",SP| CANAL+ 4K+/UHD
 http://tr.redatvgold.com/play/live.php?mac=00:1A:79:7D:17:D4&stream=1380013&extension=ts&play_token=10EHB2nWD1
 
+
+```````CHRISTMAS````````
+
+#EXTINF:-1 group-logo="https://c4.wallpaperflare.com/wallpaper/740/654/427/1920x1080-px-beautiful-christmas-gift-holiday-merry-santa-snow-tree-winter-animals-bears-hd-art-wallpaper-preview.jpg"
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EN| 4K CHRISTMAS FIREPLACE" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/CX.png" group-title="CHRISTMAS",EN| 4K CHRISTMAS FIREPLACE
+http://tr.redatvgold.com/play/live.php?mac=00:1A:79:7D:17:D4&stream=1391833&extension=ts&play_token=wG8iJqlimY
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EN| CELTIC CHRISTMAS CAROLS" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/CX.png" group-title="CHRISTMAS",EN| CELTIC CHRISTMAS CAROLS
+http://tr.redatvgold.com/play/live.php?mac=00:1A:79:7D:17:D4&stream=1391834&extension=ts&play_token=UdfEkPbTje
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EN| CHRISTMAS 1 4K" tvg-logo="http://logo.protv.cc/picons/logos/france/CX.png" group-title="CHRISTMAS",EN| CHRISTMAS 1 4K
+http://tr.redatvgold.com/play/live.php?mac=00:1A:79:7D:17:D4&stream=978715&extension=ts&play_token=GO4PMaSZsx
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EN| CHRISTMAS 2 4K" tvg-logo="http://logo.protv.cc/picons/logos/france/CX.png" group-title="CHRISTMAS",EN| CHRISTMAS 2 4K
+http://tr.redatvgold.com/play/live.php?mac=00:1A:79:7D:17:D4&stream=978714&extension=ts&play_token=J2nxkhbzyr
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EN| CHRISTMAS 3 4K" tvg-logo="http://logo.protv.cc/picons/logos/france/CX.png" group-title="CHRISTMAS",EN| CHRISTMAS 3 4K
+http://tr.redatvgold.com/play/live.php?mac=00:1A:79:7D:17:D4&stream=978713&extension=ts&play_token=rSgFq7sveG
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EN| CHRISTMAS 4 4K" tvg-logo="http://logo.protv.cc/picons/logos/france/CX.png" group-title="CHRISTMAS",EN| CHRISTMAS 4 4K
+http://tr.redatvgold.com/play/live.php?mac=00:1A:79:7D:17:D4&stream=978712&extension=ts&play_token=vNmyZ7E5Nj
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EN| CHRISTMAS 5 4K" tvg-logo="http://logo.protv.cc/picons/logos/france/CX.png" group-title="CHRISTMAS",EN| CHRISTMAS 5 4K
+http://tr.redatvgold.com/play/live.php?mac=00:1A:79:7D:17:D4&stream=978710&extension=ts&play_token=P3pRN77wwT
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EN| CHRISTMAS 6 4K" tvg-logo="http://logo.protv.cc/picons/logos/france/CX.png" group-title="CHRISTMAS",EN| CHRISTMAS 6 4K
+http://tr.redatvgold.com/play/live.php?mac=00:1A:79:7D:17:D4&stream=978709&extension=ts&play_token=mTlQ9jXO70
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EN| CHRISTMAS 7 4K" tvg-logo="http://logo.protv.cc/picons/logos/france/CX.png" group-title="CHRISTMAS",EN| CHRISTMAS 7 4K
+http://tr.redatvgold.com/play/live.php?mac=00:1A:79:7D:17:D4&stream=978708&extension=ts&play_token=axM2yGUQlE
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EN| CHRISTMAS 8 4K" tvg-logo="http://logo.protv.cc/picons/logos/france/CX.png" group-title="CHRISTMAS",EN| CHRISTMAS 8 4K
+http://tr.redatvgold.com/play/live.php?mac=00:1A:79:7D:17:D4&stream=978707&extension=ts&play_token=1c28dqkmpk
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EN| CHRISTMAS 9 4K" tvg-logo="http://logo.protv.cc/picons/logos/france/CX.png" group-title="CHRISTMAS",EN| CHRISTMAS 9 4K
+http://tr.redatvgold.com/play/live.php?mac=00:1A:79:7D:17:D4&stream=978706&extension=ts&play_token=HHUL6HcK8A
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EN| CHRISTMAS 10 4K" tvg-logo="http://logo.protv.cc/picons/logos/france/CX.png" group-title="CHRISTMAS",EN| CHRISTMAS 10 4K
+http://tr.redatvgold.com/play/live.php?mac=00:1A:79:7D:17:D4&stream=978705&extension=ts&play_token=oswNhvSALA
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EN| CHRISTMAS 100%" tvg-logo="http://logo.protv.cc/picons/logos/france/CX.png" group-title="CHRISTMAS",EN| CHRISTMAS 100%
+http://tr.redatvgold.com/play/live.php?mac=00:1A:79:7D:17:D4&stream=1369605&extension=ts&play_token=OHhUP5f3ne
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EN| CHRISTMAS 365" tvg-logo="http://logo.protv.cc/picons/logos/france/CX.png" group-title="CHRISTMAS",EN| CHRISTMAS 365
+http://tr.redatvgold.com/play/live.php?mac=00:1A:79:7D:17:D4&stream=1369607&extension=ts&play_token=eFodJivd3V
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EN| CHRISTMAS CARTOONS" tvg-logo="http://logo.protv.cc/picons/logos/france/CX.png" group-title="CHRISTMAS",EN| CHRISTMAS CARTOONS
+http://tr.redatvgold.com/play/live.php?mac=00:1A:79:7D:17:D4&stream=1369601&extension=ts&play_token=YuZ9dXtCrX
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EN| CHRISTMAS COOKIE CHALLENGE" tvg-logo="http://logo.protv.cc/picons/logos/france/CX.png" group-title="CHRISTMAS",EN| CHRISTMAS COOKIE CHALLENGE
+http://tr.redatvgold.com/play/live.php?mac=00:1A:79:7D:17:D4&stream=1369600&extension=ts&play_token=SFfBseLdDL
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EN| CHRISTMAS FIREPLACE MUSIC" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/CX.png" group-title="CHRISTMAS",EN| CHRISTMAS FIREPLACE MUSIC
+http://tr.redatvgold.com/play/live.php?mac=00:1A:79:7D:17:D4&stream=1391835&extension=ts&play_token=5yL922XjoA
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EN| CHRISTMAS GRAVITAS MOVIES" tvg-logo="http://logo.protv.cc/picons/logos/france/CX.png" group-title="CHRISTMAS",EN| CHRISTMAS GRAVITAS MOVIES
+http://tr.redatvgold.com/play/live.php?mac=00:1A:79:7D:17:D4&stream=1369606&extension=ts&play_token=tuElYAyYH9
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EN| CHRISTMAS GREAT LIGHT FIGHT" tvg-logo="http://logo.protv.cc/picons/logos/france/CX.png" group-title="CHRISTMAS",EN| CHRISTMAS GREAT LIGHT FIGHT
+http://tr.redatvgold.com/play/live.php?mac=00:1A:79:7D:17:D4&stream=1369598&extension=ts&play_token=gpccI6BuBx
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EN| CHRISTMAS GREAT!" tvg-logo="http://logo.protv.cc/picons/logos/france/CX.png" group-title="CHRISTMAS",EN| CHRISTMAS GREAT!
+http://tr.redatvgold.com/play/live.php?mac=00:1A:79:7D:17:D4&stream=1369608&extension=ts&play_token=fcfLlOcRgc
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EN| CHRISTMAS HOLIDAY WARS" tvg-logo="http://logo.protv.cc/picons/logos/france/CX.png" group-title="CHRISTMAS",EN| CHRISTMAS HOLIDAY WARS
+http://tr.redatvgold.com/play/live.php?mac=00:1A:79:7D:17:D4&stream=1369597&extension=ts&play_token=SBkVBaK2KM
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EN| CHRISTMAS HOLIDAY YULE LOG" tvg-logo="http://logo.protv.cc/picons/logos/france/CX.png" group-title="CHRISTMAS",EN| CHRISTMAS HOLIDAY YULE LOG
+http://tr.redatvgold.com/play/live.php?mac=00:1A:79:7D:17:D4&stream=1369596&extension=ts&play_token=IlNRyiFXMb
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EN| CHRISTMAS JAZZ" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/CX.png" group-title="CHRISTMAS",EN| CHRISTMAS JAZZ
+http://tr.redatvgold.com/play/live.php?mac=00:1A:79:7D:17:D4&stream=1391836&extension=ts&play_token=pn6wdxG4tj
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EN| CHRISTMAS LOFI RADIO" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/CX.png" group-title="CHRISTMAS",EN| CHRISTMAS LOFI RADIO
+http://tr.redatvgold.com/play/live.php?mac=00:1A:79:7D:17:D4&stream=1391837&extension=ts&play_token=jVoIY8bzRv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EN| CHRISTMAS MOVIES" tvg-logo="http://logo.protv.cc/picons/logos/france/CX.png" group-title="CHRISTMAS",EN| CHRISTMAS MOVIES
+http://tr.redatvgold.com/play/live.php?mac=00:1A:79:7D:17:D4&stream=1369599&extension=ts&play_token=tZGVOvYmW5
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EN| CHRISTMAS MOVIES 1 FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/CX.png" group-title="CHRISTMAS",EN| CHRISTMAS MOVIES 1 FHD
+http://tr.redatvgold.com/play/live.php?mac=00:1A:79:7D:17:D4&stream=1066682&extension=ts&play_token=wMsMU25Ro6
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EN| CHRISTMAS MOVIES 2 FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/CX.png" group-title="CHRISTMAS",EN| CHRISTMAS MOVIES 2 FHD
+http://tr.redatvgold.com/play/live.php?mac=00:1A:79:7D:17:D4&stream=1066681&extension=ts&play_token=eqEIoAPRqZ
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EN| CHRISTMAS MOVIES 3 FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/CX.png" group-title="CHRISTMAS",EN| CHRISTMAS MOVIES 3 FHD
+http://tr.redatvgold.com/play/live.php?mac=00:1A:79:7D:17:D4&stream=1066680&extension=ts&play_token=6lJxuzdw92
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EN| CHRISTMAS MOVIES 4 FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/CX.png" group-title="CHRISTMAS",EN| CHRISTMAS MOVIES 4 FHD
+http://tr.redatvgold.com/play/live.php?mac=00:1A:79:7D:17:D4&stream=1066679&extension=ts&play_token=ktvCp5pgwv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EN| CHRISTMAS MOVIES 5 FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/CX.png" group-title="CHRISTMAS",EN| CHRISTMAS MOVIES 5 FHD
+http://tr.redatvgold.com/play/live.php?mac=00:1A:79:7D:17:D4&stream=1066678&extension=ts&play_token=JqFrLMXSSi
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EN| CHRISTMAS MOVIES 6 FHD" tvg-logo="http://logo.protv.cc/picons/logos/france/CX.png" group-title="CHRISTMAS",EN| CHRISTMAS MOVIES 6 FHD
+http://tr.redatvgold.com/play/live.php?mac=00:1A:79:7D:17:D4&stream=1066677&extension=ts&play_token=PwcEtUnN7g
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EN| CHRISTMAS MUSIC MIX" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/CX.png" group-title="CHRISTMAS",EN| CHRISTMAS MUSIC MIX
+http://tr.redatvgold.com/play/live.php?mac=00:1A:79:7D:17:D4&stream=1391832&extension=ts&play_token=lCnOECeEGc
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EN| CHRISTMAS NAILED IT! HOLIDAY" tvg-logo="http://logo.protv.cc/picons/logos/france/CX.png" group-title="CHRISTMAS",EN| CHRISTMAS NAILED IT! HOLIDAY
+http://tr.redatvgold.com/play/live.php?mac=00:1A:79:7D:17:D4&stream=1369595&extension=ts&play_token=pjWjQnCjUr
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EN| CHRISTMAS THE CAROLER CHALLENGE" tvg-logo="http://logo.protv.cc/picons/logos/france/CX.png" group-title="CHRISTMAS",EN| CHRISTMAS THE CAROLER CHALLENGE
+http://tr.redatvgold.com/play/live.php?mac=00:1A:79:7D:17:D4&stream=1369603&extension=ts&play_token=2Yp600Wuya
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EN| CHRISTMAS VEVO BEST HITS" tvg-logo="http://logo.protv.cc/picons/logos/france/CX.png" group-title="CHRISTMAS",EN| CHRISTMAS VEVO BEST HITS
+http://tr.redatvgold.com/play/live.php?mac=00:1A:79:7D:17:D4&stream=1369604&extension=ts&play_token=KBJWvlFd54
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EN| RELAXING CHRISTMAS" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/CX.png" group-title="CHRISTMAS",EN| RELAXING CHRISTMAS
+http://tr.redatvgold.com/play/live.php?mac=00:1A:79:7D:17:D4&stream=1391838&extension=ts&play_token=CxTMGzhlWp
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EN| SUGAR RUSH" tvg-logo="http://logo.protv.cc/picons/logos/france/CX.png" group-title="CHRISTMAS",EN| SUGAR RUSH
+http://tr.redatvgold.com/play/live.php?mac=00:1A:79:7D:17:D4&stream=1369602&extension=ts&play_token=te5vT2SMw7
