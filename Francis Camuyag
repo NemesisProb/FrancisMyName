@@ -350,7 +350,7 @@ https://cdn09jtedge.indihometv.com/atm/hlsv3/aljazeera/aljazeera-avc1_2500000=6-
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBC News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/1200px-BBC_News_2022_%28Alt%29.svg.png" group-title="Local",BBC News
 https://ln.run/BBCNews
 
-#EXTINF:-1 tvg-id="DISCOVERY.ph" tvg-logo="https://logo.iptveditor.com/discoverychannel.png" group-title="Local",Discovery Channel
+#EXTINF:-1 tvg-id="DISCOVERY.ph" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/discov.png" group-title="Local",Discovery Channel
 https://cdn09jtedge.indihometv.com/joss/133/disco/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://logo.iptveditor.com/animalplanet.png" channel-number="1" group-title="Local", Animal Planet
@@ -523,7 +523,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/hitsnow/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=e1bde543e8a140b38d3f84ace746553e:b712c4ec307300043333a6899a402c10
 https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_tvnpre.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/TEk8rRQ.png" group-title="Local", HISTORY HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/History_28201529.png" group-title="Local", HISTORY HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -562,8 +562,6 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/fightsport/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=0559c95496d44fadb94105b9176c3579:40d8bb2a46ffd03540e0c6210ece57ce
 https://qp-pldt-live-grp-08-prod.akamaized.net/out/u/truefm_tv.mpd
 
-
-#EXTM3U
 
 ````````PH RADIO CHANNELS````````
 
@@ -1253,6 +1251,43 @@ http://apkandweb.ddns.net/6377635294/6663568605/1020460
 http://apkandweb.ddns.net/6377635294/6663568605/624745
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: THRILLERMAX UHD" tvg-logo="http://apkip.tv/logos/USA/THRILLERMAX.png" group-title="PREMIUM MOVIES",USA: THRILLERMAX UHD
 http://apkandweb.ddns.net/6377635294/6663568605/1020473
+
+
+
+
+```````Movie Central```````
+
+#EXTINF:-1 group-logo="https://i.ytimg.com/vi/K_ml0BpMbu0/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AW.pngKAgwIABABGHIgRigpMA8%3D&rs=AOn4CLAP8naivzRjZnmtw9PhsMbCToEJ2Q&fbclid=IwY2xjawGMYBVleHRuA2FlbQIxMAABHThNajME8d6cpYDDFynhyqzOOG0nqfKDVUj-3EieemG5Mehf6gkh-OT1qw_aem_mIk3O0_c69VkmnDkjvxr2Q.png"
+
+#EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/fxm1111.png" group-title="Movie Central",FXM HD
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:7D:17:D4&stream=45450&extension=ts&play_token=gxESjid8BH
+
+
+
+
+
+
+
+```````PREMIUM DOCUMENTARIES```````
+
+#EXTINF:-1 group-logo="https://th.bing.com/th/id/OIP.27BFgqxRt6tKSyvB3EKlYQHaEK?dpr=2.8&pid=ImgDetMain"
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/History_28201529.png" group-title="PREMIUM DOCUMENTARIES", HISTORY HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7724b7ca2604c33bb2e963a0319968a:6f97e3e2eb2bade626e0281ec01d3675
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_historyhd.mpd
+
+#EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/H2.png" group-title="PREMIUM DOCUMENTARIES",HISTORY 2 HD 
+http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:7D:17:D4&stream=1458752&extension=ts&play_token=rFisyspz12
+
+
+
+
+
+
 
 
 ```````4K RELAX UHD|3840P````````
