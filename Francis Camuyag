@@ -1339,7 +1339,14 @@ http://line.clear-ocean.link/play/live.php?mac=00:1A:79:2D:2F:BF&stream=472281&e
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/330px-Sony_Movies_Logo.svg.png" group-title="Movie Central",Sony Movies
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3FG7shh/309711808-510224337781742-6135287715344601247-n-removebg-preview.png" group-title="Movie Central",ACTION HOLLYWOOD MOVIES
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TMTGvq1/ava-family-363x272-removebg-preview.png" group-title="Movie Central",AVA FAMILY
+https://familyhls.avatv.live/hls/stream.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WnD4SsR/newscaster-live-television-huya-tv-illustration-png-favpng-KCCG6p966q0-Srwv-Ec-AXDEbj-TS-removebg-pr.png" group-title="Movie Central",DOUYU MOVIES
+http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=3b64dd17d293b133c58bda21e3147e5b&token=cpn-androidmpro-0-20415-b6774b3b3249db1768f0ac048c5ed218ac54e1f82b04b2bf&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 
 ```````PREMIUM DOCUMENTARIES```````
 
@@ -1348,7 +1355,7 @@ https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/H2.png" group-title="PREMIUM DOCUMENTARIES",HISTORY 2 HD 
 http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:7D:17:D4&stream=1458752&extension=ts&play_token=rFisyspz12
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Naked afraid" tvg-logo="https://images.fanart.tv/fanart/naked-and-afraid-5589e14856c62.png" group-title="PREMIUM DOCUMENTARIES",Naked afraid
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Naked afraid" tvg-logo="https://i.ibb.co/mvMj48h/naked-and-afraid-5589e14856c62-removebg-preview.png" group-title="PREMIUM DOCUMENTARIES",Naked afraid
 http://user.scalecdn.co:8080/live/262301/262301/34331.m3u8
 
 
