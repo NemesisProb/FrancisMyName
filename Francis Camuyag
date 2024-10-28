@@ -996,8 +996,6 @@ http://apkandweb.ddns.net/6377635294/6663568605/1343823
 https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cartoonito Asia" tvg-logo="https://i.imgur.com/x1wehbs.png" group-title="KIDS NETWORKS",Cartoonito Asia
 https://cdn1.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Disney Movies" tvg-logo="https://purepng.com/public/uploads/large/purepng.com-disney-logologobrand-logoiconslogos-251519939495wtv86.png" group-title="KIDS NETWORKS",Disney Movies
-http://abcnew.site:8880/D12m2496/22936653/60928
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DreamWorks Channel" tvg-logo="https://imgur.com/SASnGFo.png" group-title="KIDS NETWORKS",DreamWorks Channel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b5bfe3554df2abcd37afe130a7e1d310:dccbdf043ac43d18be0b3eb43a582876
@@ -1342,20 +1340,17 @@ https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3FG7shh/309711808-510224337781742-6135287715344601247-n-removebg-preview.png" group-title="Movie Central",ACTION HOLLYWOOD MOVIES
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WnD4SsR/newscaster-live-television-huya-tv-illustration-png-favpng-KCCG6p966q0-Srwv-Ec-AXDEbj-TS-removebg-pr.png" group-title="Movie Central",DOUYU MOVIES
-http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=3b64dd17d293b133c58bda21e3147e5b&token=cpn-androidmpro-0-20415-b6774b3b3249db1768f0ac048c5ed218ac54e1f82b04b2bf&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TMTGvq1/ava-family-363x272-removebg-preview.png" group-title="Movie Central",AVA FAMILY
 https://familyhls.avatv.live/hls/stream.m3u8 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/X2YSB2V/scifi-world-512-X512-balck-removebg-preview.png" group-title="Movie Central",SCI-FI WORLD
 https://streams2.sofast.tv/ptnr-yupptv/title-SCIFI-WORLD-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/a985e052-6868-4365-ac45-52afe9008b25/manifest.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXozQ3Ab0E9HQGgXv-Y0irycjMGGM4Fw4gXw&usqp=CAU" group-title=" Movie Central",PLEX NEW MOVIES
+#EXTINF:-1 tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2020/07/18113202/k-movies-pinoy-logo-300x300.png" group-title="Movie Central",NEW K-MOVIES
 https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NewMovies/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://m3u-editor.com/storage/channel-logos/bf022930-0da6-11ee-9a0d-659e025a2c6e/4897409/868539176.jpg" group-title="Movie Central",NEW K-MOVIES
-https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NewMovies/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WnD4SsR/newscaster-live-television-huya-tv-illustration-png-favpng-KCCG6p966q0-Srwv-Ec-AXDEbj-TS-removebg-pr.png" group-title="Movie Central", Douyu Movies
+http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=3b64dd17d293b133c58bda21e3147e5b&token=cpn-androidmpro-0-20415-b6774b3b3249db1768f0ac048c5ed218ac54e1f82b04b2bf&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 
 ```````PREMIUM DOCUMENTARIES```````
 
@@ -1367,10 +1362,19 @@ http://tr.redatvgold.com:80/play/live.php?mac=00:1A:79:7D:17:D4&stream=1458752&e
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Naked afraid" tvg-logo="https://i.ibb.co/mvMj48h/naked-and-afraid-5589e14856c62-removebg-preview.png" group-title="PREMIUM DOCUMENTARIES",Naked afraid
 http://user.scalecdn.co:8080/live/262301/262301/34331.m3u8
 
+#EXTINF:-1 tvg-logo="https://v.fastcdn.co/u/ce0680fc/50673365-0-WEATHERSPY-LOGO-WHIT.png" group-title="PREMIUM DOCUMENTARIES",WEATHER SPY
+https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8
 
 
+```````RELAXIATION AREA```````
 
+#EXTINF:-1 group-logo="https://img.freepik.com/premium-vector/relax-hand-lettering-word-calligraphic-vector-hand-drawn-text-isolated-white-background_110464-1179.jpg"
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N15bdn3/Entete-Wellbeing-TV-removebg-preview.png" group-title="RELAXIATION AREA",WELLBEING TV
+https://amg01255-secomcofites-my-myzen-en-plex-dj4yp.amagi.tv/playlist/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV Live" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8ffd63e6-658b-47d2-96d4-e379ebe20d61/dga94a7-478f4c18-a53e-423b-8d9d-9a7ba3616bb5.png/v1/fill/w_1192,h_670/logo_panda_channel_by_witchuta_dga94a7-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvOGZmZDYzZTYtNjU4Yi00N2QyLTk2ZDQtZTM3OWViZTIwZDYxXC9kZ2E5NGE3LTQ3OGY0YzE4LWE1M2UtNDIzYi04ZDlkLTlhN2JhMzYxNmJiNS5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.8axwTs3hrysLASDJU3HXAuN4mXaG3zo9L4agQdkh0CE" group-title="RELAXIATION AREA",Panda TV
+https://cdn08jtedge.indihometv.com/dassdvr/130/pandatv/manifest.mpd
 
 
 
