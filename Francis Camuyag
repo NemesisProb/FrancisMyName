@@ -1087,10 +1087,22 @@ https://zoomoo-samsungau.amagi.tv/playlist720p.m3u8
 
 #EXTINF:-1 group-logo=""
 
-#EXTINF:-1 tvg-id="nickhdplus.in" tvg-name="IN: Nick+ FHD" tvg-logo="" group-title="KIDS EXCLUSIVES", Nick+ FHD
-https://bit.ly/3BZAAym
+#EXTINF:-1 tvg-id="nickhdplus.in" tvg-name="IN: Nick+ FHD" tvg-logo="https://i.ibb.co/5LjbnZX/462558817-1147525850278473-8257900980366747608-n-removebg-preview.png" group-title="KIDS EXCLUSIVES", Nick+ HD
+https://bit.ly/nickHDitogustomo
 
+#EXTINF:-1 tvg-id="CBeebies" group-title="KIDS EXCLUSIVES" ch-number="620" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/481_144.png",CBeebies
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=50c699c444e5f80dacafc4c99667d810:de6c5feaae5f6963b4b392ddc8b6a778
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5093/default.mpd
 
+#EXTINF:-1 tvg-id="cartoonnetworkhd.in" tvg-name="IN: CN HD + (4K)" tvg-logo="https://i.ibb.co/mJ6YSSm/cartoon-network-hd-plus-removebg-preview.png" group-title="KIDS",Cartoon Network HD+
+https://bit.ly/48rXKJN
+
+#EXTINF:-1 tvg-id="disneyinternationalhd.in" tvg-name="IN: DISNEY INTERNATIONAL (4K)" tvg-logo="https://i.ibb.co/FgPr0PR/disney-hd-international-logo-2-removebg-preview.png" group-title="KIDS EXCLUSIVES", Disney INTERNATIONAL HD
+https://bit.ly/3NJvEA9
+
+#EXTINF:-1 tvg-id="disneychannel.in" tvg-name="IN: Disney Channel (4K)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Disney_Channel_2014_HD.png" group-title="KIDS EXCLUSIVES", Disney Channel HD
+https://bit.ly/3AjLTRu
 
 
 
@@ -1341,14 +1353,20 @@ https://fl1001.bozztv.com/ssh101/cinematimetv2/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMA TV" tvg-logo="https://www.pngplay.com/wp-content/uploads/6/Cinema-Logo-PNG-HD-Quality.png" group-title="Movie Central",CINEMA TV
 https://rpn.bozztv.com/gusa/gusa-classiccinema/index.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MNET MOVIES 1" tvg-logo="https://img.newsroom.cj.net/wp-content/uploads/2022/10/K-POP-Culture-Platform-Mnet-Plus-1024x426.png" group-title="Movie Central",MNET MOVIES 1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MNET MOVIES 1" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/M1D.png" group-title="Movie Central",M-Net Movies 1
 https://dvrfl06.tulix.tv/astv/astv-mnetmovies1/index.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MNET MOVIES 2" tvg-logo="https://img.newsroom.cj.net/wp-content/uploads/2022/10/K-POP-Culture-Platform-Mnet-Plus-1024x426.png" group-title="Movie Central",MNET MOVIES 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MNET MOVIES 2" tvg-logo="#EXTINF:-1 tvg-id="mmovies2.za" tvg-name="DSTV: M-Net Movies 2 (FHD)" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/MAP.png" group-title="Movie Central",M-Net Movies 2
 https://dvrfl06.tulix.tv/astv/astv-mnetmovies2/index.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MNET MOVIES 3" tvg-logo="https://img.newsroom.cj.net/wp-content/uploads/2022/10/K-POP-Culture-Platform-Mnet-Plus-1024x426.png" group-title="Movie Central",MNET MOVIES 3
+#EXTINF:-1 tvg-id="mmovies3.za" tvg-name="DSTV: M-Net Movies 3 (FHD)" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/MCH.png" group-title="Movie Central",M-Net Movies 3 
+https://bit.ly/3AkMHFE
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MNET MOVIES 4" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/MZE.png" group-title="Movie Central",M-Net Movies 4
 https://dvrfl06.tulix.tv/astv/astv-mnetmovies4/index.m3u8
+
+
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Pix" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Pix_new.png" group-title="Movie Central",Sony Pix
 http://line.clear-ocean.link/play/live.php?mac=00:1A:79:2D:2F:BF&stream=472281&extension=m3u8
@@ -1370,6 +1388,9 @@ https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WnD4SsR/newscaster-live-television-huya-tv-illustration-png-favpng-KCCG6p966q0-Srwv-Ec-AXDEbj-TS-removebg-pr.png" group-title="Movie Central", Douyu Movies
 http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=3b64dd17d293b133c58bda21e3147e5b&token=cpn-androidmpro-0-20415-b6774b3b3249db1768f0ac048c5ed218ac54e1f82b04b2bf&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
+
+#EXTINF:-1 tvg-id="moviesnowhd.in" tvg-name="IN: Movies Now (4K)" tvg-logo="https://w7.pngwing.com/pngs/922/754/png-transparent-movies-now-television-channel-high-definition-television-mn-movies-miscellaneous-television-text.png" group-title="Movie Central", Movies Now HD
+https://bit.ly/4e4NJDE
 
 ```````PREMIUM DOCUMENTARIES```````
 
@@ -1405,6 +1426,28 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://public-assets-pressexpress.s3.amazonaws.com/assets/pages/images/2023/03/31/PlutoTV_SCIENCE_Channel_1080x1080_Square1-bexfqf2q.png" group-title="PREMIUM DOCUMENTARIES",Pluto TV Science
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d767b4889bca2ce7b73ef2e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b2022d1-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d9359c6b-8339-43a0-b9ee-5200b879ac5f
+
+
+#EXTINF:-1 tvg-id="discoveryhd.in" tvg-name="IN: DISCOVERY (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="Movie Central", DISCOVERY HD
+https://starshare.live:443/live/127718262420/127744325447/98872.ts
+
+#EXTINF:-1 tvg-id="animalplanethd.in" tvg-name="IN: ANIMAL PLANET (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="Movie Central", ANIMAL PLANET HD
+https://starshare.live:443/live/127718262420/127744325447/98873.ts
+
+#EXTINF:-1 tvg-id="nationalgeographicchannelhd.in" tvg-name="IN: National GEO (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="Movie Central",National Geographic HD
+https://starshare.live:443/live/127718262420/127744325447/98874.ts
+
+#EXTINF:-1 tvg-id="natgeowildhd.in" tvg-name="IN: NAT Geo Wild (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="Movie Central", NAT Geo Wild HD
+https://starshare.live:443/live/127718262420/127744325447/98875.ts
+
+#EXTINF:-1 tvg-id="sonybbcearthhd.in" tvg-name="IN: Sony BBC EARTH (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="Movie Central", Sony BBC EARTH HD
+https://starshare.live:443/live/127718262420/127744325447/98871.ts
+
+#EXTINF:-1 tvg-id="historytv18hd.in" tvg-name="IN: HISTORY TV (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="Movie Central",HISTORY HD
+https://starshare.live:443/live/127718262420/127744325447/98877.ts
+
+
+
 
 
 ```````RELAXIATION AREA```````
