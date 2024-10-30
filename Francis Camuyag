@@ -562,7 +562,7 @@ https://qp-pldt-live-grp-08-prod.akamaized.net/out/u/truefm_tv.mpd
 ````````RESERVED CHANNELS````````
 
 
-#EXTINF:-1 group-logo=
+#EXTINF:-1 group-logo="https://st.depositphotos.com/2274151/3306/i/600/depositphotos_33060717-stock-photo-reserved-red-grunge-stamp.jpg"
 
 
 #EXTINF:-1 tvg-id="SOLARFLIX.ph" tvg-logo="https://i.imgur.com/OgBDJ75.png" group-title="RESERVED CHANNELS",SolarFlix
@@ -591,7 +591,7 @@ http://admin.ganbaruby23.xyz/stream/new/pinoyhits/master.m3u8?u=4568185514&p=729
 
 ````````PH RADIO CHANNELS````````
 
-#EXTINF:-1 group-logo=:"https://4.bp.blogspot.com/-ucYtvFXi2aQ/VebnZ2Lq6DI/AAAAAAABI78/loXpT7VVKLk/s1600/hd_am_fm_logo.png"
+#EXTINF:-1 group-logo=:"https://allvectorlogo.com/img/2016/03/hd-radio-logo.png"
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="14.3 Global Online Radio" tvg-logo="" group-title="PH RADIO CHANNELS",14.3 Global Online Radio
 http://65.108.124.70:8255/stream
@@ -1506,7 +1506,7 @@ https://linear-492.frequency.stream/dist/stirr/492/hls/master/playlist.m3u8
 
 ```````4K RELAX UHD|3840P````````
 
-#EXTINF:-1 group-logo="https://res.cloudinary.com/clearlink/image/upload/v1590012051/Dish/images/isolated/4k-logo-01_f78kb4.png"
+#EXTINF:-1 group-logo="https://i.ibb.co/ZJwMP72/85c82173479365dcfece6488b34f971b.png"
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="###### RELAX ᵁᴴᴰ 3840P ######" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="4K RELAX UHD|3840P",###### RELAX ᵁᴴᴰ 3840P ######
 http://tr.redatvgold.com/play/live.php?mac=00:1A:79:7D:17:D4&stream=1505577&extension=ts&play_token=w9IpAsweDF
@@ -1564,7 +1564,7 @@ http://tr.redatvgold.com/play/live.php?mac=00:1A:79:7D:17:D4&stream=1502984&exte
 
 ```````4K RELAX |1920P````````
 
-#EXTINF:-1 group-logo="https://res.cloudinary.com/clearlink/image/upload/v1590012051/Dish/images/isolated/4k-logo-01_f78kb4.png"
+#EXTINF:-1 group-logo="https://i.ibb.co/ZJwMP72/85c82173479365dcfece6488b34f971b.png"
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="###### RELAX 4K ######" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="4K RELAX |1920P",###### RELAX 4K ######
 http://tr.redatvgold.com/play/live.php?mac=00:1A:79:7D:17:D4&stream=1505556&extension=ts&play_token=sJYkRqluJP
@@ -1613,7 +1613,7 @@ http://tr.redatvgold.com/play/live.php?mac=00:1A:79:7D:17:D4&stream=1505564&exte
 
 ```````4K UHD|3840P````````
 
-#EXTINF:-1 group-logo="https://res.cloudinary.com/clearlink/image/upload/v1590012051/Dish/images/isolated/4k-logo-01_f78kb4.png"
+#EXTINF:-1 group-logo="https://i.ibb.co/ZJwMP72/85c82173479365dcfece6488b34f971b.png"
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="4K| 5SPORT UHD" tvg-logo="http://logo.protv.cc/picons/logos/logos/5SPORT.png" group-title="4K UHD|3840P",4K| 5SPORT UHD
 http://tr.redatvgold.com/play/live.php?mac=00:1A:79:7D:17:D4&stream=1470620&extension=ts&play_token=Dnr5dWbtmY
