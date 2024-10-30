@@ -591,7 +591,7 @@ http://admin.ganbaruby23.xyz/stream/new/pinoyhits/master.m3u8?u=4568185514&p=729
 
 ````````PH RADIO CHANNELS````````
 
-#EXTINF:-1 group-logo=:"https://allvectorlogo.com/img/2016/03/hd-radio-logo.png"
+#EXTINF:-1 group-logo="https://allvectorlogo.com/img/2016/03/hd-radio-logo.png"
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="14.3 Global Online Radio" tvg-logo="" group-title="PH RADIO CHANNELS",14.3 Global Online Radio
 http://65.108.124.70:8255/stream
@@ -1112,7 +1112,7 @@ https://zoomoo-samsungau.amagi.tv/playlist720p.m3u8
 
 ````````KIDS EXCLUSIVES````````
 
-#EXTINF:-1 group-logo="https://www.bing.com/images/search?view=detailV2&ccid=qy02%2BFsP&id=C52211C2DE9550D45F08AC504CA23B60948DF115&thid=OIP.qy02-FsPNiGs5uqJhjWHXQHaFj&mediaurl=https%3A%2F%2Fi.pinimg.com%2F736x%2F2c%2F8c%2Fce%2F2c8cce58750362112cb1bfd48678b2d0.jpg&exph=552&expw=736&q=kids+exclusives+logo+no+bg&simid=608032533838052099&FORM=IRPRST&ck=E3A5C2B21E6B16877487B6046ED88761&selectedIndex=13&itb=0&cw=1112&ch=534&mode=overlay"
+#EXTINF:-1 group-logo="https://fumcaustin.org/wp-content/uploads/2020/02/kids-club-1920-1080-1280x720.jpg"
 
 #EXTINF:-1 tvg-id="nickhdplus.in" tvg-name="IN: Nick+ FHD" tvg-logo="https://i.ibb.co/5LjbnZX/462558817-1147525850278473-8257900980366747608-n-removebg-preview.png" group-title="KIDS EXCLUSIVES", Nick+ HD
 https://bit.ly/nickHDitogustomo
