@@ -192,10 +192,10 @@ https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_hbohits.mpd
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2305/manifest.mpd
 
 #EXTINF:-1 tvg-id="CINEMO!.ph" tvg-name="CineMo!" tvg-logo="https://htvc.vn/uploads/editor/images/Cinemaworld.png" group-title="Local",CinemaWorld
-https://cdn09jtedge.indihometv.com/joss/134/cinemaworld/index.m3u8
+https://bit.ly/4hiUdRY
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/O5jBcL2.png" group-title="Local", Asian Food Network
-https://cdn08jtedge.indihometv.com/dassdvr/133/afc/manifest.mpd
+https://bit.ly/4fq7CWA
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TLC" tvg-logo="https://logo.iptveditor.com/tlc.png" group-title="Local",TLC
 https://dplus.gammacdn.workers.dev/videos/97.m3u8
@@ -296,7 +296,7 @@ https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/tvup_prd.mpd
 https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_rockextreme.mpd
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Love Nature HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/483_144.png" group-title="Local",Love Nature HD
-https://cdn08jtedge.indihometv.com/dassdvr/194/lovenature/manifest.mpd
+https://bit.ly/3NHiUtU
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rock Entertainment" tvg-logo="https://i.imgur.com/PR9DbtR.png" group-title="Local",Rock Entertainment HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -316,7 +316,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default.mpd
 https://tglmp04.akamaized.net/out/v1/421a3cd3bdcd492f8f4b5efb2363ed2c/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/2560px-Logo_Lifetime_2020.svg.png" group-title="Local", Lifetime
-https://cdn08jtedge.indihometv.com/dassdvr/134/lifetime/manifest.mpd
+https://bit.ly/3AafoFk
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/KJaSftF.png" group-title="Local",TapTV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -333,7 +333,7 @@ https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_taptv_sd.mpd
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-anc-global-dash-abscbnono/index.mpd
 
 #EXTINF:-1 tvg-id="CrimeInvestigation" group-title="Local" tvg-logo="https://imgur.com/KeM5KlR.png" ch-number="714",Crime & Investigation HD
-https://cdn09jtedge.indihometv.com/joss/133/crimeinvestigation/index.m3u8
+https://bit.ly/3UuNquV
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Lotus Macau" tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/mo-macau-lotus-tv-3757.png" group-title="Local",Lotus Macau
 https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
@@ -342,29 +342,29 @@ https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
 http://115.146.176.131/TimRizal/TimRizal/15.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://download.logo.wine/logo/CNBC/CNBC-Logo.wine.png" channel-number="1" group-title="Local", CNBC 
-https://cdn09jtedge.indihometv.com/joss/134/cnbcasia/index.m3u8
+https://bit.ly/4hnhr9H
 
 #EXTINF:-1 tvg-id="CHANNEL.NEWS.ASIA.ph" tvg-logo="https://i.imgur.com/vm9Z0uV.png" group-title="Local",CNA
 .imgur.com/vm9Z0uV.png" group-title="Local",CNA
 http://210.210.155.35/uq2663/h/h29/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://1000logos.net/wp-content/uploads/2023/01/Al-Jazeera-Logo.png" channel-number="1" group-title="Local", Al Jazeera 
-https://cdn09jtedge.indihometv.com/atm/hlsv3/aljazeera/aljazeera-avc1_2500000=6-mp4a_96000=2.m3u8
+https://bit.ly/4edqRl7
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBC News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/1200px-BBC_News_2022_%28Alt%29.svg.png" group-title="Local",BBC News
 https://ln.run/BBCNews
 
 #EXTINF:-1 tvg-id="DISCOVERY.ph" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/discov.png" group-title="Local",Discovery Channel
-https://cdn09jtedge.indihometv.com/joss/133/disco/index.m3u8
+https://bit.ly/4fnsUV0
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://logo.iptveditor.com/animalplanet.png" channel-number="1" group-title="Local", Animal Planet
-https://cdn08jtedge.indihometv.com/dassdvr/194/animalplanet/manifest.mpd
+https://bit.ly/indianimalplanet
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Outdoor Channel" tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/Outdoor-Channel-Thumbnail.png" group-title="Local",Outdoor Channel
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Discovery-asia.png/220px-Discovery-asia.png" channel-number="1" group-title="Local", Discovery Asia
-https://cdn08jtedge.indihometv.com/dassdvr/194/discoveryasia/manifest.mpd
+https://bit.ly/indidiscoveryasia
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UIqEr2y.png" group-title="Local", Knowledge Channel
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -374,7 +374,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/discoveryasia/manifest.mpd
 https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_knowledgechannel.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Bn5Z9xa.png" channel-number="1" group-title="Local", Tech Storm
-https://cdn08jtedge.indihometv.com/dassdvr/133/techstorm/manifest.mpd
+https://bit.ly/inditechstorm
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/f/f3/DepEd_TV_Logo_2020.png" group-title="Local", DepEd TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -393,25 +393,25 @@ http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/300952
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e0a4ee0007a38e8clivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://115.146.176.131/images/14a646307c92e88856903295e6fa0d5c.png" channel-number="1" group-title="Local", Arirang TV
-https://cdn09jtedge.indihometv.com/atm/hlsv3/ARIRANG/ARIRANG-avc1_2500000=6-mp4a_96000=2.m3u8
+https://bit.ly/3YqXbLB
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ajBtogD.png" channel-number="1" group-title="Local", NHK World - Japan
-https://cdn09jtedge.indihometv.com/atm/hlsv3/NHK_WORLD_JAPAN/NHK_WORLD_JAPAN-avc1_2500000=6-mp4a_96000=2.m3u8
+https://bit.ly/3YK6l7a
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/kVVax44.png" channel-number="1" group-title="Local", ABC Australia
-https://cdn09jtedge.indihometv.com/atm/hlsv3/ABC_AUSTRALIA/ABC_AUSTRALIA-avc1_2500000=6-mp4a_96000=2.m3u8
+https://bit.ly/3YHKTzR
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV5 MONDE Asie" tvg-logo="https://klean.nl/wp-content/uploads/Logo_TV5_Monde_-_2021.svg_.png" group-title="Local",TV5 Monde
 https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/61MSiq9.png" channel-number="1" group-title="Local", France 24
-https://cdn09jtedge.indihometv.com/atm/hlsv3/FRANCE_24/FRANCE_24-avc1_2500000=6-mp4a_96000=2.m3u8
+https://bit.ly/3YJ4CPG
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="KBS World" tvg-logo="https://i.imgur.com/JAL3Ohz.png" group-title="Local",KBS World
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Nd9gqA2.png" channel-number="1" group-title="Local", K+
-https://cdn09jtedge.indihometv.com/atm/hlsv3/kplus/kplus-avc1_2500000=7-mp4a_96000=5.m3u8
+https://bit.ly/3YJLn8P
 
 #EXTINF:-1 tvg-id="DZMM TELERADYO" tvg-name="TeleRadyo Serbisyo" tvg-logo="https://static.wikia.nocookie.net/russel/images/e/e5/TeleRadyo_Serbisyo_3D_Logo_2023.png" group-title="Local",TeleRadyo Serbisyo
 https://teleradyo-abscbn-ono.amagi.tv/playlist.m3u8
@@ -518,7 +518,7 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_warnertvhd.mpd
 https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/hits_hd1.mpd
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TrueFM TV" tvg-logo="https://www.hitsnow.tv/assets/hits-now-logo-white.png" group-title="Local",HITS Now HD
-https://cdn08jtedge.indihometv.com/dassdvr/134/hitsnow/manifest.mpd
+https://bit.ly/3UtZsV3
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eE9IBhJ.png" group-title="Local",tvN Premium HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -557,7 +557,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_primary.mpd
 https://dice-live-ap.akamaized.net/hls/live/2001885/220945-277136/exchange220945ykmbp_220945_4500/chunklist.m3u8?hdntl=exp=1729844390~acl=%2f*~id=d2169895-c4bb-4142-9260-9259db29e713~data=hdntl,dWlkPTdyckZLTnw1MjJkMzhiMC00OGM1LTQzMGQtYmI5My1hYTQ4YWQ2NjRhMjkmaXA9MmEwOTpiYWMxOjVhYzA6NTg6OjI0NTpmYyZleHA9MTcyOTg0NDQxNSZlaWQ9MjIwOTQ1JmNpZD1kY2UudGFwZ28mb2lkPTMyNSZ0eXBlPUxJVkU~hmac=856058c23b2c65732a571213b8851e0529b46ff670667a838ef6719afb423f94&hdnea=st=1729757975~exp=1729758015~acl=/hls/live/2001885/220945-277136/*~id=d2169895-c4bb-4142-9260-9259db29e713~data=dWlkPTdyckZLTnw1MjJkMzhiMC00OGM1LTQzMGQtYmI5My1hYTQ4YWQ2NjRhMjkmaXA9MmEwOTpiYWMxOjVhYzA6NTg6OjI0NTpmYyZleHA9MTcyOTg0NDQxNSZlaWQ9MjIwOTQ1JmNpZD1kY2UudGFwZ28mb2lkPTMyNSZ0eXBlPUxJVkU~hmac=f4675e57face9fbca5ab11ccf1fc10b333bd0532be778aefcd5760348c5daf1b&opId=325&cc=PH&ua=TW96aWxsYS81LjAgKExpbnV4OyBBbmRyb2lkIDExOyBNMjEwM0sxOVBHKSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTI5LjAuNjY2OC4xMDAgTW9iaWxlIFNhZmFyaS81MzcuMzY%3D
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TrueFM TV" tvg-logo="https://i.ibb.co/b1ysLd1/fight-sports-one-destination-small-1-removebg-preview.png" group-title="Local",Fight Sports
-https://cdn08jtedge.indihometv.com/dassdvr/133/fightsport/manifest.mpd
+https://bit.ly/4fm2KBW
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/40/Radyo5truefmlogo.webp" group-title="Local", TrueFM TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1023,7 +1023,8 @@ http://apkandweb.ddns.net/6377635294/6663568605/657
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK: DISNEY XD" tvg-logo="http://apkip.tv/logos/USA/DisneyXD.us.png" group-title="KIDS NETWORKS",UK: DISNEY XD
 http://apkandweb.ddns.net/6377635294/6663568605/658
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK: DISNEY XD" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1696933461-.png" group-title="KIDS NETWORKS",FUN PLANET
-https://cdn09jtedge.indihometv.com/atm/hlsv3/indikids/indikids-avc1_2500000=7-mp4a_96000=5.m3u8
+https://bit.ly/4f53Imc
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK: NICK JR" tvg-logo="http://apkip.tv/logos/UK/NickJr.uk.png" group-title="KIDS NETWORKS",UK: NICK JR
 http://apkandweb.ddns.net/6377635294/6663568605/659
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UK: NICK JR TOO" tvg-logo="http://apkip.tv/logos/UK/NickJrToo.uk.png" group-title="KIDS NETWORKS",UK: NICK JR TOO
@@ -1095,7 +1096,7 @@ https://bit.ly/nickHDitogustomo
 #KODIPROP:inputstream.adaptive.license_key=50c699c444e5f80dacafc4c99667d810:de6c5feaae5f6963b4b392ddc8b6a778
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5093/default.mpd
 
-#EXTINF:-1 tvg-id="cartoonnetworkhd.in" tvg-name="IN: CN HD + (4K)" tvg-logo="https://i.ibb.co/mJ6YSSm/cartoon-network-hd-plus-removebg-preview.png" group-title="KIDS",Cartoon Network HD+
+#EXTINF:-1 tvg-id="cartoonnetworkhd.in" tvg-name="IN: CN HD + (4K)" tvg-logo="https://i.ibb.co/mJ6YSSm/cartoon-network-hd-plus-removebg-preview.png" group-title="KIDS EXCLUSIVES",Cartoon Network HD+
 https://bit.ly/48rXKJN
 
 #EXTINF:-1 tvg-id="disneyinternationalhd.in" tvg-name="IN: DISNEY INTERNATIONAL (4K)" tvg-logo="https://i.ibb.co/FgPr0PR/disney-hd-international-logo-2-removebg-preview.png" group-title="KIDS EXCLUSIVES", Disney INTERNATIONAL HD
@@ -1457,7 +1458,7 @@ https://bit.ly/3Ykz0yq
 https://amg01255-secomcofites-my-myzen-en-plex-dj4yp.amagi.tv/playlist/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV Live" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8ffd63e6-658b-47d2-96d4-e379ebe20d61/dga94a7-478f4c18-a53e-423b-8d9d-9a7ba3616bb5.png/v1/fill/w_1192,h_670/logo_panda_channel_by_witchuta_dga94a7-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvOGZmZDYzZTYtNjU4Yi00N2QyLTk2ZDQtZTM3OWViZTIwZDYxXC9kZ2E5NGE3LTQ3OGY0YzE4LWE1M2UtNDIzYi04ZDlkLTlhN2JhMzYxNmJiNS5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.8axwTs3hrysLASDJU3HXAuN4mXaG3zo9L4agQdkh0CE" group-title="RELAXIATION AREA",Panda TV
-https://cdn08jtedge.indihometv.com/dassdvr/130/pandatv/manifest.mpd
+https://bit.ly/3Cem2L3
 
 #EXTINF:-1 tvg-id="CookingPanda.us" tvg-logo="https://wallpapers.com/images/hd/cooking-panda-logo-smtp67j0oo3ttc43-smtp67j0oo3ttc43.png" group-title="RELAXIATION AREA",Cooking Panda
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=46
