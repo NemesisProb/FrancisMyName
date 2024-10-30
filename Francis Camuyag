@@ -547,9 +547,8 @@ https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/cg_uaap_cplay_sd.mpd
 #KODIPROP:inputstream.adaptive.license_key=9bfeb5068725617dbad6338473da6d10:06577ffcc4935ba24aff4c4c9dd6846d
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_primary.mpd
 
-#EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://ownassetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1641949301_premier-sports-2.png" group-title="Local",Premier Sports 2
-https://dice-live-ap.akamaized.net/hls/live/2001885/220945-277136/exchange220945ykmbp_220945_4500/chunklist.m3u8?hdntl=exp=1729844390~acl=%2f*~id=d2169895-c4bb-4142-9260-9259db29e713~data=hdntl,dWlkPTdyckZLTnw1MjJkMzhiMC00OGM1LTQzMGQtYmI5My1hYTQ4YWQ2NjRhMjkmaXA9MmEwOTpiYWMxOjVhYzA6NTg6OjI0NTpmYyZleHA9MTcyOTg0NDQxNSZlaWQ9MjIwOTQ1JmNpZD1kY2UudGFwZ28mb2lkPTMyNSZ0eXBlPUxJVkU~hmac=856058c23b2c65732a571213b8851e0529b46ff670667a838ef6719afb423f94&hdnea=st=1729757975~exp=1729758015~acl=/hls/live/2001885/220945-277136/*~id=d2169895-c4bb-4142-9260-9259db29e713~data=dWlkPTdyckZLTnw1MjJkMzhiMC00OGM1LTQzMGQtYmI5My1hYTQ4YWQ2NjRhMjkmaXA9MmEwOTpiYWMxOjVhYzA6NTg6OjI0NTpmYyZleHA9MTcyOTg0NDQxNSZlaWQ9MjIwOTQ1JmNpZD1kY2UudGFwZ28mb2lkPTMyNSZ0eXBlPUxJVkU~hmac=f4675e57face9fbca5ab11ccf1fc10b333bd0532be778aefcd5760348c5daf1b&opId=325&cc=PH&ua=TW96aWxsYS81LjAgKExpbnV4OyBBbmRyb2lkIDExOyBNMjEwM0sxOVBHKSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTI5LjAuNjY2OC4xMDAgTW9iaWxlIFNhZmFyaS81MzcuMzY%3D
-
+#EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="hhttps://ownassetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1641949301_premier-sports-2.png" group-title="Local",Premier Sports 2
+http://iptvtree.net:8080/live/resplice/wdLIS4d9758INyuX/276599.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TrueFM TV" tvg-logo="https://i.ibb.co/b1ysLd1/fight-sports-one-destination-small-1-removebg-preview.png" group-title="Local",Fight Sports
 https://bit.ly/4fm2KBW
 
@@ -580,6 +579,9 @@ http://admin.ganbaruby23.xyz/stream/new/heartofasia/master.m3u8?u=4568185514&p=7
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="I Heart Movies" tvg-logo="https://static.wikia.nocookie.net/russel/images/4/40/I_Heart_Movies_3D_Logo_2021.png/revision/latest?cb=20220913064316" group-title="RESERVED CHANNELS",I Heart Movies
 http://admin.ganbaruby23.xyz/stream/new/iheartmovies/master.m3u8?u=4568185514&p=729c795a2e7aa95f684d5c17e6681649b872158019ffce987a14f1b2c51cfef6
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pinoy Xtreme" tvg-logo="https://imgur.com/NXb4qmF.png" group-title="RESERVED CHANNELS",Pinoy Hits
+http://admin.ganbaruby23.xyz/stream/new/pinoyhits/master.m3u8?u=4568185514&p=729c795a2e7aa95f684d5c17e6681649b872158019ffce987a14f1b2c51cfef6
 
 
 
@@ -1012,7 +1014,7 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: METV TOONS" tvg-logo="https://i.imgur.com/SLCxTHi.png" group-title="KIDS NETWORKS",USA: MeTV Toons
-http://apkandweb.ddns.net/6377635294/6663568605/1413807
+http://46.151.196.194:8080/live/djdlangston3%40comcast.net/CqBbXL25Vhjb/924019.m3u8?token=HRtYUkpaEAMVBllQXAEJB1ECBFZQCVZSUgYCUV9RVFEAWwVSDFcKCwETTRAXTUoGVFxrXQYaClgBAAVTAE9BQBVcQmxQVhADFQNYBVEIGk8XRV1ZBxoKUR8WRQtdQVkXVAoABwgQHhtSSRVXFldZD2pVUUILW1VDCVpADlVPQVoIZlRWVFNcXRULQwNGFRoKRkEWDgxNXA0fFlcLTRECQQMbChEKBgMNFR1DUQtMVhdHSBYOQGh4Qx8WUBpNBg1GD1ZeEQMQXwpCCUMeRlBLPEdUR0AQXVEMVkYXWBtTQRlEVFFLZlFdV1lUAkYNVlYQFwsWBkAUEgxcWlwWVhE8RQ9dEgkbAAAAAARDTw==
 
 #EXTINF:-1 tvg-id="RetroCrush.us" tvg-logo="https://i.imgur.com/M40b4YI.png" group-title="KIDS NETWORKS",Retro Crush
 https://amg01201-cinedigmenterta-retrocrush-cineverse-nrfll.amagi.tv/playlist/amg01201-cinedigmenterta-retrocrush-cineverse/playlist.m3u8
