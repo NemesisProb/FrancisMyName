@@ -43,7 +43,7 @@ http://115.146.176.131:80/TimRizal/TimRizal/90.m3u8
 https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_onesports_hd.mpd
 
 #EXTINF:-1 tvg-id="GMA.ph" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/71/GMA_Network_Logo_%282024_Station_ID_Teaser_Promo%29.png/revision/latest?cb=20240627213154" group-title="Local",GMA
-https://ythls.armelin.one/channel/UCKL5hAuzgFQsyrsQKgU0Qng.m3u8
+http://115.146.176.131:80/play/5i_LtAbpY7PhHy5sbZlWo2xBm9xMZK4Yoq2fEzOd2Sk/ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bpRiu54.png" group-title="Local", One News HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -63,7 +63,7 @@ https://ln.run/PHCNN
 https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cnn_rptv_prod_hd.mpd
 
 #EXTINF:-1 tvg-id="GTV.ph" tvg-logo="https://static.wikia.nocookie.net/russel/images/9/93/GTV_Logo_2021.png/revision/latest?cb=20230518051736" group-title="Local",GTV
-https://wag.ika.lat/stream/872206966
+http://115.146.176.131:80/play/5i_LtAbpY7PhHy5sbZlWo41V4XcHK5Lccd5m3a-e0MA/ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f5/IBC_13_Logo_2012.png/revision/latest?cb=20170830080345" group-title="Local", IBC 13
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -73,7 +73,7 @@ https://wag.ika.lat/stream/872206966
 https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/ibc13_sd.mpd
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NET 25" tvg-logo="https://i.imgur.com/pPPubX5.png" group-title="Local",NET 25
-https://wag.ika.lat/stream/2137749132
+https://ythls.armelin.one/channel/UCcTiBX8js_djhSSlmJRI99A.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/7/7a/TV5_HD_Logo_2024.png/revision/latest/scale-to-width-down/290?cb=20240202141126" group-title="Local", TV5 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -83,10 +83,10 @@ https://wag.ika.lat/stream/2137749132
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_hd.mpd
 
 #EXTINF:-1 tvg-id="LOCAL.PROGRAMMING.DUMMY.us " tvg-logo="https://alltv.ph/wp-content/uploads/2024/06/LOGO-ALLTV-NEW.png" group-title="Local",ALLTV
-http://115.146.176.131/TimRizal/TimRizal/60
+http://115.146.176.131:80/play/5i_LtAbpY7PhHy5sbZlWo_iAWJn4CJB5aLapb9IGyU8/ts
 
 #EXTINF:-1 tvg-id="Local.Programming.Dimmy.us" tvg-logo="https://static.wikia.nocookie.net/russel/images/6/62/DZRH_TV_Logo_November_2021.png/revision/latest?cb=20211215134648" group-title="Local",DZRH TV
-https://wag.ika.lat/stream/46167610
+https://ythls.armelin.one/channel/UCcTiBX8js_djhSSlmJRI99A.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/8/85/A2Z_Channel_11_without_Channel_11_3D_Logo_2020.png/revision/latest?cb=20231101144828" group-title="Local", A2Z
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -95,8 +95,6 @@ https://wag.ika.lat/stream/46167610
 #KODIPROP:inputstream.adaptive.license_key=f703e4c8ec9041eeb5028ab4248fa094:c22f2162e176eee6273a5d0b68d19530
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_a2z.mpd
 
-#EXTINF:-1 tvg-id="SOLARFLIX.ph" tvg-logo="https://i.imgur.com/OgBDJ75.png" group-title="Local",SolarFlix
-https://wag.ika.lat/stream/1741969367
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcxvjeBIthYiEaZHeVeYpDicIlOTdv3G6lzoal3VM2xVzWu_J7XxM657oz&s=10" group-title="Local", Bilyonaryo Channel
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -118,13 +116,10 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono
 https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_tvnmovie.mpd
 
 #EXTINF:-1 tvg-id="Dummy" tvg-name="RJ TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/Screenshot_2019-08-30_at_5.25.09_PM.png" group-title="Local",RJ TV
-http://115.146.176.131/live/TimRizal/TimRizal/44.m3u8
+http://115.146.176.131:80/play/5i_LtAbpY7PhHy5sbZlWo5xy_L33HaRMmRHdbvhG42Q/ts
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Wild Planet" tvg-logo="https://wildplanetfoods.com/cdn/shop/files/wild-planet-logo-200px.png" group-title="Local",Wild Planet
 https://d3c7duantorcb1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jpfvel38m2ce0-prod/amgwildplanetuk/playlist.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Celestial Movies Pinoy" tvg-logo="https://i.imgur.com/e5IZsv3.png" group-title="Local",Celestial Movies Pinoy
-http://xtream-ie.org/live/BISDAKTV/BISDAKTV/12.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Pinoy_Box_Office_logo.svg/1200px-Pinoy_Box_Office_logo.svg.png" group-title="Local", PBO
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -144,7 +139,7 @@ https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/viva_sd.mpd
 https://cinemo-abscbn-ono.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jeepney TV" tvg-logo="https://static.wikia.nocookie.net/russel/images/0/0b/Jeepney_TV_3D_Logo_2015.png/revision/latest?cb=20230326142526" group-title="Local",Jeepney TV
-https://wag.ika.lat/stream/576146646
+http://115.146.176.131:80/play/5i_LtAbpY7PhHy5sbZlWo1zYTxG-py1tWe97L_Ni7xk/ts
 
 #EXTINF:-1 tvg-id="Cinema.One.ph" tvg-name="Cinema One" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/d/d2/Cinema_One_%282013-.n.v.%29.png/revision/latest/thumbnail/width/360/height/360?cb=20200830073736" group-title="Local",Cinema One
 https://cinemaone-abscbn-ono.amagi.tv/index.m3u8
@@ -203,8 +198,8 @@ https://dplus.gammacdn.workers.dev/videos/97.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://i.imgur.com/ZCYeUV2.png" group-title="Local",Travel Channel
 https://dplus.gammacdn.workers.dev/videos/110.m3u8
 
-#EXTINF:-1 tvg-id="METRO.CHANNEL.HD.ph" tvg-logo="https://static.wikia.nocookie.net/russel/images/c/c4/Metro_Channel_White_Logo_2018.png" group-title="Local",Metro Channel
-https://wag.ika.lat/stream/121739637
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/Cl_tv_36_ph.png/revision/latest?cb=20130823135759" group-title="Local",CLTV 36
+https://live.cltv36.tv:5443/LiveApp/streams/live.m3u8
 
 #EXTINF:-1 tvg-id="Nickelodeon" group-title="Local" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/370_144.png" ch-number="616",Nickelodeon
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -226,7 +221,7 @@ https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.m
 https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_cartoonnetworkhd.mpd
 
 #EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://i.imgur.com/5gMIjA2.png" group-title="Local",Aniplus
-http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/298504
+http://bisdaktv.store/stream/iptvmedia.php?id=157611
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cartoonito Asia" tvg-logo="https://i.imgur.com/x1wehbs.png" group-title="Local",Cartoonito 
 https://cdn1.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang.m3u8
@@ -565,6 +560,32 @@ https://bit.ly/4fm2KBW
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0559c95496d44fadb94105b9176c3579:40d8bb2a46ffd03540e0c6210ece57ce
 https://qp-pldt-live-grp-08-prod.akamaized.net/out/u/truefm_tv.mpd
+
+````````RESERVED CHANNELS````````
+
+
+#EXTINF:-1 group-logo=
+
+
+#EXTINF:-1 tvg-id="SOLARFLIX.ph" tvg-logo="https://i.imgur.com/OgBDJ75.png" group-title="RESERVED CHANNELS",SolarFlix
+https://wag.ika.lat/stream/1741969367
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Celestial Movies Pinoy" tvg-logo="https://i.imgur.com/e5IZsv3.png" group-title="RESERVED CHANNELS",Celestial Movies Pinoy
+http://xtream-ie.org/live/BISDAKTV/BISDAKTV/12.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GTV" tvg-logo="https://imgur.com/sC3yTot.png" group-title="RESERVED CHANNELS",Hallypop!
+http://admin.ganbaruby23.xyz/stream/new/hallypop/master.m3u8?u=4568185514&p=729c795a2e7aa95f684d5c17e6681649b872158019ffce987a14f1b2c51cfef6
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Heart of Asia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/79/Heart_of_Asia_3D_Logo.png/revision/latest/scale-to-width-down/250?cb=20200713050134" group-title="RESERVED CHANNELS",Heart of Asia
+http://admin.ganbaruby23.xyz/stream/new/heartofasia/master.m3u8?u=4568185514&p=729c795a2e7aa95f684d5c17e6681649b872158019ffce987a14f1b2c51cfef6
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="I Heart Movies" tvg-logo="https://static.wikia.nocookie.net/russel/images/4/40/I_Heart_Movies_3D_Logo_2021.png/revision/latest?cb=20220913064316" group-title="RESERVED CHANNELS",I Heart Movies
+http://admin.ganbaruby23.xyz/stream/new/iheartmovies/master.m3u8?u=4568185514&p=729c795a2e7aa95f684d5c17e6681649b872158019ffce987a14f1b2c51cfef6
+
+
+
+
+
 
 
 ````````PH RADIO CHANNELS````````
@@ -1474,7 +1495,7 @@ https://linear-492.frequency.stream/dist/stirr/492/hls/master/playlist.m3u8
 
 ```````4K RELAX UHD|3840P````````
 
-#EXTINF:-1 group-logo="https://i.ibb.co/p4knk5y/images-4.png"
+#EXTINF:-1 group-logo="https://res.cloudinary.com/clearlink/image/upload/v1590012051/Dish/images/isolated/4k-logo-01_f78kb4.png"
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="###### RELAX ᵁᴴᴰ 3840P ######" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="4K RELAX UHD|3840P",###### RELAX ᵁᴴᴰ 3840P ######
 http://tr.redatvgold.com/play/live.php?mac=00:1A:79:7D:17:D4&stream=1505577&extension=ts&play_token=w9IpAsweDF
@@ -1532,7 +1553,7 @@ http://tr.redatvgold.com/play/live.php?mac=00:1A:79:7D:17:D4&stream=1502984&exte
 
 ```````4K RELAX |1920P````````
 
-#EXTINF:-1 group-logo="https://i.ibb.co/p4knk5y/images-4.png"
+#EXTINF:-1 group-logo="https://res.cloudinary.com/clearlink/image/upload/v1590012051/Dish/images/isolated/4k-logo-01_f78kb4.png"
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="###### RELAX 4K ######" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="4K RELAX |1920P",###### RELAX 4K ######
 http://tr.redatvgold.com/play/live.php?mac=00:1A:79:7D:17:D4&stream=1505556&extension=ts&play_token=sJYkRqluJP
@@ -1581,7 +1602,7 @@ http://tr.redatvgold.com/play/live.php?mac=00:1A:79:7D:17:D4&stream=1505564&exte
 
 ```````4K UHD|3840P````````
 
-#EXTINF:-1 group-logo="https://i.ibb.co/p4knk5y/images-4.png"
+#EXTINF:-1 group-logo="https://res.cloudinary.com/clearlink/image/upload/v1590012051/Dish/images/isolated/4k-logo-01_f78kb4.png"
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="4K| 5SPORT UHD" tvg-logo="http://logo.protv.cc/picons/logos/logos/5SPORT.png" group-title="4K UHD|3840P",4K| 5SPORT UHD
 http://tr.redatvgold.com/play/live.php?mac=00:1A:79:7D:17:D4&stream=1470620&extension=ts&play_token=Dnr5dWbtmY
