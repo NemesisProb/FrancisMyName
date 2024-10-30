@@ -1431,7 +1431,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d
 #EXTINF:-1 tvg-id="discoveryhd.in" tvg-name="IN: DISCOVERY (4K)." tvg-logo="https://i.ibb.co/3ycBLXg/discovery-inc-removebg-preview.png" group-title="PREMIUM DOCUMENTARIES", DISCOVERY HD
 https://bit.ly/4enh50d
 
-#EXTINF:-1 tvg-id="animalplanethd.in" tvg-name="IN: ANIMAL PLANET (4K)." tvg-logo="hhttps://i.ibb.co/mBFs4RQ/pinpng-com-animal-planet-png-4851143.png" group-title="PREMIUM DOCUMENTARIES", ANIMAL PLANET HD
+#EXTINF:-1 tvg-id="animalplanethd.in" tvg-name="IN: ANIMAL PLANET (4K)." tvg-logo="https://i.ibb.co/mBFs4RQ/pinpng-com-animal-planet-png-4851143.png" group-title="PREMIUM DOCUMENTARIES", ANIMAL PLANET HD
 https://bit.ly/3NLunsn
 
 #EXTINF:-1 tvg-id="nationalgeographicchannelhd.in" tvg-name="IN: National GEO (4K)." tvg-logo=https://i.ibb.co/gt6r3Wv/imgbin-national-geographic-society-national-geographic-kids-business-television-channel-national-geo.png" group-title="PREMIUM DOCUMENTARIES",National Geographic HD
