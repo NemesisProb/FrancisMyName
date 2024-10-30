@@ -1428,24 +1428,23 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d767b4889bca2ce7b73ef2e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b2022d1-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d9359c6b-8339-43a0-b9ee-5200b879ac5f
 
 
-#EXTINF:-1 tvg-id="discoveryhd.in" tvg-name="IN: DISCOVERY (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="Movie Central", DISCOVERY HD
-https://starshare.live:443/live/127718262420/127744325447/98872.ts
+#EXTINF:-1 tvg-id="discoveryhd.in" tvg-name="IN: DISCOVERY (4K)." tvg-logo="https://i.ibb.co/3ycBLXg/discovery-inc-removebg-preview.png" group-title="PREMIUM DOCUMENTARIES", DISCOVERY HD
+https://bit.ly/4enh50d
 
-#EXTINF:-1 tvg-id="animalplanethd.in" tvg-name="IN: ANIMAL PLANET (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="Movie Central", ANIMAL PLANET HD
-https://starshare.live:443/live/127718262420/127744325447/98873.ts
+#EXTINF:-1 tvg-id="animalplanethd.in" tvg-name="IN: ANIMAL PLANET (4K)." tvg-logo="hhttps://i.ibb.co/mBFs4RQ/pinpng-com-animal-planet-png-4851143.png" group-title="PREMIUM DOCUMENTARIES", ANIMAL PLANET HD
+https://bit.ly/3NLunsn
 
-#EXTINF:-1 tvg-id="nationalgeographicchannelhd.in" tvg-name="IN: National GEO (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="Movie Central",National Geographic HD
-https://starshare.live:443/live/127718262420/127744325447/98874.ts
+#EXTINF:-1 tvg-id="nationalgeographicchannelhd.in" tvg-name="IN: National GEO (4K)." tvg-logo=https://i.ibb.co/gt6r3Wv/imgbin-national-geographic-society-national-geographic-kids-business-television-channel-national-geo.png" group-title="PREMIUM DOCUMENTARIES",National Geographic HD
+https://bit.ly/3A8e59X
 
-#EXTINF:-1 tvg-id="natgeowildhd.in" tvg-name="IN: NAT Geo Wild (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="Movie Central", NAT Geo Wild HD
-https://starshare.live:443/live/127718262420/127744325447/98875.ts
+#EXTINF:-1 tvg-id="natgeowildhd.in" tvg-name="IN: NAT Geo Wild (4K)." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/2560px-National_Geographic_Wild_logo.svg.png" group-title="PREMIUM DOCUMENTARIES", NAT Geo Wild HD
+https://bit.ly/40otIV5
 
-#EXTINF:-1 tvg-id="sonybbcearthhd.in" tvg-name="IN: Sony BBC EARTH (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="Movie Central", Sony BBC EARTH HD
-https://starshare.live:443/live/127718262420/127744325447/98871.ts
+#EXTINF:-1 tvg-id="sonybbcearthhd.in" tvg-name="IN: Sony BBC EARTH (4K)." tvg-logo="https://i.ibb.co/8rWc2JK/sony-bbc-earth-possible-future-logo-by-red2222222222-dedcdbh-fullview-removebg-preview.png" group-title="PREMIUM DOCUMENTARIES", Sony BBC EARTH HD
+http://bit.ly/4f2VV8G
 
-#EXTINF:-1 tvg-id="historytv18hd.in" tvg-name="IN: HISTORY TV (4K)." tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="Movie Central",HISTORY HD
-https://starshare.live:443/live/127718262420/127744325447/98877.ts
-
+#EXTINF:-1 tvg-id="historytv18hd.in" tvg-name="IN: HISTORY TV (4K)." tvg-logo="https://i.ibb.co/sJmBCv2/47c6b578126225-Y3-Jvc-Cwx-MTgw-LDky-Mywz-Nj-Is-MTE2-removebg-preview.png" group-title="PREMIUM DOCUMENTARIES",HISTORY HD
+https://bit.ly/3Ykz0yq
 
 
 
@@ -1460,7 +1459,7 @@ https://amg01255-secomcofites-my-myzen-en-plex-dj4yp.amagi.tv/playlist/amg01255-
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV Live" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8ffd63e6-658b-47d2-96d4-e379ebe20d61/dga94a7-478f4c18-a53e-423b-8d9d-9a7ba3616bb5.png/v1/fill/w_1192,h_670/logo_panda_channel_by_witchuta_dga94a7-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzIwIiwicGF0aCI6IlwvZlwvOGZmZDYzZTYtNjU4Yi00N2QyLTk2ZDQtZTM3OWViZTIwZDYxXC9kZ2E5NGE3LTQ3OGY0YzE4LWE1M2UtNDIzYi04ZDlkLTlhN2JhMzYxNmJiNS5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.8axwTs3hrysLASDJU3HXAuN4mXaG3zo9L4agQdkh0CE" group-title="RELAXIATION AREA",Panda TV
 https://cdn08jtedge.indihometv.com/dassdvr/130/pandatv/manifest.mpd
 
-#EXTINF:-1 tvg-id="CookingPanda.us" tvg-logo="https://i.imgur.com/bhY0ZcsRELAXIATION AREA.png" group-title="RELAXIATION AREA",Cooking Panda
+#EXTINF:-1 tvg-id="CookingPanda.us" tvg-logo="https://wallpapers.com/images/hd/cooking-panda-logo-smtp67j0oo3ttc43-smtp67j0oo3ttc43.png" group-title="RELAXIATION AREA",Cooking Panda
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=46
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Trn3nb1/unnamed-removebg-preview.png" group-title="RELAXIATION AREA",Crafty Panda 
