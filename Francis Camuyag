@@ -1547,7 +1547,7 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc122ycnuy)/m
 #KODIPROP:inputstream.adaptive.license_key=002007110c69a23803173b50eab05f23:590d6e8f4ca81319f9bb29104f571990
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(lc107a1ddy)/master.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="PREMIUM SPORTS" tvg-logo="https://i.ibb.co/wRWZkWs/spotv.png",SPO TV
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="PREMIUM SPORTS" tvg-logo="https://i.ibb.co/wRWZkWs/spotv.png",SPO TV 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
