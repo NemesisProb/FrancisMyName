@@ -96,6 +96,8 @@ https://ythls.armelin.one/channel/UCcTiBX8js_djhSSlmJRI99A.m3u8
 #KODIPROP:inputstream.adaptive.license_key=f703e4c8ec9041eeb5028ab4248fa094:c22f2162e176eee6273a5d0b68d19530
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_a2z.mpd
 
+#EXTINF:-1 tvg-id="SOLARFLIX.ph" tvg-logo="https://i.imgur.com/OgBDJ75.png" group-title="Local",SolarFlix
+http://bisdaktv.store/channel/skymovie.php?id=115
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcxvjeBIthYiEaZHeVeYpDicIlOTdv3G6lzoal3VM2xVzWu_J7XxM657oz&s=10" group-title="Local", Bilyonaryo Channel
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -579,10 +581,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/LOVERADIO_MNL.
 
 
 #EXTINF:-1 group-logo="https://st.depositphotos.com/2274151/3306/i/600/depositphotos_33060717-stock-photo-reserved-red-grunge-stamp.jpg"
-
-
-#EXTINF:-1 tvg-id="SOLARFLIX.ph" tvg-logo="https://i.imgur.com/OgBDJ75.png" group-title="RESERVED CHANNELS",SolarFlix
-http://bisdaktv.store/channel/skymovie.php?id=115
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GTV" tvg-logo="https://imgur.com/sC3yTot.png" group-title="RESERVED CHANNELS",Hallypop!
 http://admin.ganbaruby23.xyz/stream/new/hallypop/master.m3u8?u=4568185514&p=729c795a2e7aa95f684d5c17e6681649b872158019ffce987a14f1b2c51cfef6
