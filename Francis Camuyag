@@ -45,6 +45,13 @@ https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_onesports_hd.mpd
 #EXTINF:-1 tvg-id="GMA.ph" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/71/GMA_Network_Logo_%282024_Station_ID_Teaser_Promo%29.png/revision/latest?cb=20240627213154" group-title="Local",GMA
 http://115.146.176.131:80/play/5i_LtAbpY7PhHy5sbZlWo2xBm9xMZK4Yoq2fEzOd2Sk/ts
 
+#EXTINF:-1 tvg-id="GMA.ph" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/GMA_Pinoy_TV_(2011).png/revision/latest/scale-to-width-down/250?cb=20230617204705" group-title="Local",GMA Pinoy TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key= 47635b8e885e19f2ccbdff078c207058:c95ed4c44b0b4f7fa1c6ebbbbaab21a1
+https://cdn-uw2-prod.tsv2.amagi.tv/...c693236-e0c1-40a3-8bd0-bb25e43f5bfc/index.mpd
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bpRiu54.png" group-title="Local", One News HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -340,7 +347,9 @@ http://115.146.176.131/TimRizal/TimRizal/15.m3u8
 https://bit.ly/4hnhr9H
 
 #EXTINF:-1 tvg-id="CHANNEL.NEWS.ASIA.ph" tvg-logo="https://i.imgur.com/vm9Z0uV.png" group-title="Local",CNA
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4ee336861eed4840a555788dc54aea6e:f1f53644d4941d4ed31b4bb2478f8cf4
+https://tglmp03.akamaized.net/out/v1/43856347987b4da3890360b0d18b5dc5/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://1000logos.net/wp-content/uploads/2023/01/Al-Jazeera-Logo.png" channel-number="1" group-title="Local", Al Jazeera 
 https://bit.ly/4edqRl7
@@ -408,7 +417,11 @@ https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 https://bit.ly/3YJLn8P
 
 #EXTINF:-1 tvg-id="DZMM TELERADYO" tvg-name="TeleRadyo Serbisyo" tvg-logo="https://static.wikia.nocookie.net/russel/images/e/e5/TeleRadyo_Serbisyo_3D_Logo_2023.png" group-title="Local",TeleRadyo Serbisyo
-https://teleradyo-abscbn-ono.amagi.tv/playlist.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=47c093e0c9fd4f80839a0337da3dd876:50547394045b3d047dc7d92f57b5fb33
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-teleradyo-dash-abscbnono/index.mpd
 
 #EXTINF:-1 tvg-id="LOCAL.PROGRAMMING.DUMMY.us" tvg-logo="https://static.wikia.nocookie.net/russel/images/1/1e/INC_TV_White_Logo_July_2022.png" group-title="Local",INC TV
 https://199211.global.ssl.fastly.net/643cc12aa824db4374021c8c/live_95f6ac80dd6511ed9d08b12be56ae55e/index.m3u8
@@ -558,6 +571,12 @@ https://bit.ly/4fm2KBW
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0559c95496d44fadb94105b9176c3579:40d8bb2a46ffd03540e0c6210ece57ce
 https://qp-pldt-live-grp-08-prod.akamaized.net/out/u/truefm_tv.mpd
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="Local", LOVE RADIO MANILA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=645a11b3343f3c5c6b90c532
+https://playerservices.streamtheworld.com/api/livestream-redirect/LOVERADIO_MNL.mp3
+
 
 ````````RESERVED CHANNELS````````
 
@@ -1506,7 +1525,7 @@ https://linear-492.frequency.stream/dist/stirr/492/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-logo="https://logowik.com/content/uploads/images/sports8897.jpg"
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/s9NDZSK/nbatv.png" group-title="PREMIUM SPORTS", NBA TV 
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.pngkey.com/png/full/139-1392116_nba-tv-logo.png" group-title="PREMIUM SPORTS", NBA TV 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1568,101 +1587,61 @@ https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227726/32
 #KODIPROP:inputstream.adaptive.license_key=00208c93f4358213b52220898b962385:8ae6063167228e350dd132d4a1573102
 https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc106wh3yw)/master.mpd
 
-#EXTINF:-1 channel-id="samsung-GBBD1100008YW" tvg-id="GBBD1100008YW" tvg-chno="4008" tvg-logo="https://brandlogos.net/wp-content/uploads/2022/10/fifa-logo_brandlogos.net_pdjxs.png" group-title="PREMIUM SPORTS" , FIFA+ 
-https://38ca3c9c.wurl.com/master/f3...U2Ftc3VuZy1nYl9GSUZBUGx1c19ITFM/playlist.m3u8
-
-#EXTINF:-1 tvg-id="FightNetwork" tvg-logo="https://i.ibb.co/jgKL0qQ/1280px-Fight-network-logo-svg-removebg-preview.png" group-title="PREMIUM SPORTS", FIGHT NETWORK
-https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
-
-#EXTINF:-1 tvg-id="DAZN FAST+" tvg-logo="https://i.ibb.co/VCTTM0Q/dazn-fast-stage-desktop-1920x1080.jpg" group-title="PREMIUM SPORTS" , DAZN FAST+
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
-https://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-504/stream.mpd
-
-#EXTINF:-1 tvg-id="DAZN RISE" tvg-logo="https://i.ibb.co/Hg4Gypx/dazn-rise-1-500x266-removebg-preview.png" group-title="PREMIUM SPORTS" , DAZN RISE
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
-https://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-501/stream.mpd
-
-#EXTINF:-1 tvg-id="DAZN RISE" tvg-logo="https://i.ibb.co/FH4J85V/image.png" group-title="PREMIUM SPORTS" , DAZN WOMEN'S FOOTBALL
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/6.9.0 (Linux;Android 10) ExoPlayerLib/2.11.4
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
-https://dcj-ac-live.cdn.indazn.com/dash/dazn-linear-503/stream.mpd
-
-#EXTINF:-1 tvg-id="Arena Esport.ba" tvg-logo="https://i.ibb.co/bJpS0B8/iu-removebg-preview.png" group-title="PREMIUM SPORTS", ARENA SPORTS
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/arena_esport.mpd
-
-#EXTINF:-1 tvg-id="Arena Fight.ba" tvg-logo="https://www.logosoft.ba/chanLogo/arenafight.png" group-title="PREMIUM SPORTS", ARENA FIGHT
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/arena_fight.mpd
-
-#EXTINF:-1 tvg-id="Arena Sport 1 HD.ba" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Arena_Sport_1_RS_logo.png" group-title="PREMIUM SPORTS", ARENA SPORT 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/arena1.mpd
-
-#EXTINF:-1 tvg-id="Arena Sport 2.ba" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Arena_Sport_2.png/revision/latest?cb=20210319044121" group-title="PREMIUM SPORTS", ARENA SPORT 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/arena2.mpd
-
-#EXTINF:-1 tvg-id="Arena Sport 3.ba" tvg-logo="http://www.ewsat.com/img/ARENA_SPORT_3.png" group-title="PREMIUM SPORTS", ARENA SPORT 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/arena3.mpd
-
-#EXTINF:-1 tvg-id="Arena Sport 4.ba" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/Arena_Sport_4.png/revision/latest?cb=20210319044553" group-title="PREMIUM SPORTS", ARENA SPORT 4
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/arena4.mpd
-
-#EXTINF:-1 tvg-id="Arena Sport 5.ba" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/32/Arena_Sport_5.png/revision/latest?cb=20210319050404" group-title="PREMIUM SPORTS", ARENA SPORT 5
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/arena5.mpd
-
-#EXTINF:-1 tvg-id="Arena Sport 6.ba" tvg-logo="https://www.freeshot.live/upload/source/ArenaSport-6-logo.png" group-title="PREMIUM SPORTS", ARENA SPORT 6
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/arena6.mpd
-
-#EXTINF:-1 tvg-id="Arena sport 1x2.ba" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/Arena_Sport_1x2.png/revision/latest?cb=20210626181342" group-title="PREMIUM SPORTS", ARENA SPORT 1x2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/arena_1x2.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2e/Arena_Sport_2019.svg/revision/latest?cb=20191219171911" group-title="PREMIUM SPORTS", ARENA SPORT PL
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/premier_league.mpd
-
-#EXTINF:-1 tvg-id="Arena ρrémíùm 1.ba" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/Arena_Sport_1_Premium_%282021%2C_short%29.svg/revision/latest?cb=20221111214150" group-title="PREMIUM SPORTS", ARENA SPORT PREMIUM 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/as_premium1.mpd
-
-#EXTINF:-1 tvg-id="Arena ρrémíùm 2.ba" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Arena_Sport_2_Premium_%282021%2C_short%29.svg/revision/latest?cb=20221111214150" group-title="PREMIUM SPORTS", ARENA SPORT PREMIUM 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/as_premium2.mpd
-
 #EXTINF:-1 tvg-id="Arena ρrémíùm 3.ba" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/92/Arena_Sport_3_Premium_%282021%2C_short%29.svg/revision/latest?cb=20221111214149" group-title="PREMIUM SPORTS", ARENA SPORT PREMIUM 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd
 
+#EXTINF:-1 group-title="PREMIUM SPORTS" tvg-id="TNTSports1.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/TNT_Sports_1_HD_%282023%29.svg/revision/latest?cb=20230717231158",TNT SPORTS 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
+https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+
+#EXTINF:-1 group-title="PREMIUM SPORTS" tvg-id="TNTSports2.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/TNT_Sports_2_HD_%282023%29.svg/revision/latest?cb=20230717231157",TNT SPORTS 2 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
+https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+
+#EXTINF:-1 group-title="PREMIUM SPORTS" tvg-id="TNTSports3.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1c/TNT_Sports_3_HD_%282023%29.svg/revision/latest?cb=20230717231156",TNT SPORTS 3 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
+https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
+
+#EXTINF:-1 group-title="PREMIUM SPORTS" tvg-id="TNTSports4.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/TNT_Sports_4_HD_%282023%29.svg/revision/latest?cb=20230717231155",TNT SPORTS 4 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729
+https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
+
+#EXTINF:-1 group-title="PREMIUM SPORTS" tvg-id="TNTSports5.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/62/TNT_Sports_5_HD_%282023%29.svg/revision/latest?cb=20230718053006",TNT SPORTS 5 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=60c0d9b41475e01db4ffb91ed557fbcc:36ee40e58948ca15e3caba8d47b8f34b
+https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/gesdwrdncn/out/v1/79e752f1eccd4e18b6a8904a0bc01f2d/cenc.mpd
+
+#EXTINF:-1 tvg-id="unifi Sports 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/Unifi_Sports_2023.png/revision/latest?cb=20230616051349" group-title="PREMIUM SPORTS", UNIFI SPORTS 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cbb673fb120882354735ed57eeb05b4c:fe003f7aeec40eb65d20b14edfda2a86
+https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227877/3221227877.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=pDVeBhPtc549NayvHFA0JHqiwYJ%2FKEP6UdMtjXIjIzrjYyGN4h5HPUHLEk%2FvL80xPjG9KTt82xXCdpGInMoKWMBLe9Ie9rQgSTZ%2FmsUArMht5J0dsgfU28LWZM15p3G2%3A20221124103114%3AUTC%2C10001002142071%2C115.164.56.153%2C20221124103114%2Curn:Huawei:liveTV:XTV54185493%2C10001002142071%2C-1%2C0%2C1%2C%2C%2C2%2CHESA0002%2C%2C%2C2%2C10000104188313%2C0%2C10000103564441%2C798506651%2C%2C%2C2%2C1%2CEND&GuardEncType=2&tenantId=6003&from=5&ocs=2_1.9.62.168_80&hms_devid=1785&mag_hms=1785,1793,1786,1788&it=H4sIAAAAAAAAA0XMQQvCIBiA4X_jUdTPJjt4KoIuEqy6xqd-ycBN0jXo38ci6P4-71Ix0OlgwQtjAoAG2mlJvqe-wwCx0xCVNoE1erpigQXMeZyTK3Fjt2F_l4ILrpTkUrHLtjtmTFZ9S_eaPNU_G6iuYyAb24Ov2DimVCnhMpaZnzO-rzX_kg9sQKxomQAAAA
+
+#EXTINF:-1 tvg-logo="https://tv.assets.pressassociation.io/08d5adde-34fa-50ce-94d1-58bdf387d054.png" group-title="PREMIUM SPORTS",Eurosport
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=47c03f29f04747d2a298c0ad63f3b2c1:8b48b2cb2743b91d5f20cf2622067f3a
+https://atemecdnbalancer-voe.sysln.id/live/eds/EUROSPORTHD/mpd/EUROSPORTHD.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7K78MRc/png-clipart-logo-ptv-sports-television-channel-pakistan-cricket-television-text-removebg-preview.png" group-title="PREMIUM SPORTS",PTV Sports
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9ecad6c4413f8bdc54712ce6c072a2cf:442df559c369bdada8ba3abe97811575
+https://live4.shoq.com.pk/live/eds/PTV_Sports/DASH/PTV_Sports.mpd
 
 
 ```````4K RELAX UHD|3840P````````
