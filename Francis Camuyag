@@ -1469,6 +1469,21 @@ https://ln.run/6OaJx
 #EXTINF:-1 tvg-id="andprivehd.in" tvg-name="IN: &PRIVE (4K)." tvg-logo="https://i.ibb.co/HTPJk7b/OIP-1-removebg-preview.png" group-title="Movie Central", &PRIVE HD
 https://ln.run/AYPv-
 
+#EXTINF:-1 tvg-id="andprivehd.in" tvg-name="" tvg-logo="https:https://i.ibb.co/2gjcmVK/OIP-4-removebg-preview.png" group-title="Movie Central", FilmRise Action
+https://d3is52sgpnlx4c.cloudfront.net/10901/88885508/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885508
+
+#EXTINF:-1 tvg-id="andprivehd.in" tvg-name="" tvg-logo="https://i.ibb.co/Cn0Z8Rk/OIP-3-removebg-preview.png" group-title="Movie Central", FilmRise Free Movies
+https://d3is52sgpnlx4c.cloudfront.net/10901/88885512/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885512
+
+#EXTINF:-1 tvg-id="andprivehd.in" tvg-name="" tvg-logo="https://i.ibb.co/2j4wNXK/unnamed-removebg-preview.png" group-title="Movie Central", FilmRise Horror
+https://d3is52sgpnlx4c.cloudfront.net/10901/88885514/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885514
+
+#EXTINF:-1 tvg-id="andprivehd.in" tvg-name="" tvg-logo="https://i.ibb.co/GvhNJDW/71-Tvj-NY1vm-L-removebg-preview.png" group-title="Movie Central", FilmRise Western
+https://d3is52sgpnlx4c.cloudfront.net/10901/88885515/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885515
+
+#EXTINF:-1 tvg-id="andprivehd.in" tvg-name="" tvg-logo="https://i.ibb.co/3NV1K3t/44aac912fdaf4ddeec87b267da1579c6e3a64e0e9a80fb3c9e1a550df2dc7f1e-removebg-preview.png" group-title="Movie Central",  FilmRise Classic TV
+https://d3is52sgpnlx4c.cloudfront.net/10901/88885509/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885509
+
 ```````PREMIUM DOCUMENTARIES```````
 
 #EXTINF:-1 group-logo="https://th.bing.com/th/id/OIP.27BFgqxRt6tKSyvB3EKlYQHaEK?dpr=2.8&pid=ImgDetMain"
@@ -1667,6 +1682,9 @@ https://live4.shoq.com.pk/live/eds/PTV_Sports/DASH/PTV_Sports.mpd
 
 #EXTINF:-1 tvg-id="new/blastsportshd" tvg-name="Blast Sports" tvg-logo="https://imgur.com/gWx5OlB.png" group-title="PREMIUM SPORTS",Blast Sports 
 https://dice-live-ap.akamaized.net/hls/live/2102466/266217-277147/exchange266217tctyk_266217_4500/chunklist.m3u8?hdntl=exp=1730614032~acl=%2f*~id=336f6566-a15c-47f1-ad46-77bbcb7f84e1~data=hdntl,dWlkPTdyckZLTnw1MjJkMzhiMC00OGM1LTQzMGQtYmI5My1hYTQ4YWQ2NjRhMjkmaXA9MmEwOTpiYWM1OjRmZGM6MTZjODo6MjQ1OjlkJmV4cD0xNzMwNjE0MDUyJmVpZD0yNjYyMTcmY2lkPWRjZS50YXBnbyZvaWQ9MzI1JnR5cGU9TElWRQ~hmac=5f63c1e281276b259db3d952544378e99012dda76a107e8c7b41cf11f4141379&hdnea=st=1730527612~exp=1730527652~acl=/hls/live/2102466/266217-277147/*~id=336f6566-a15c-47f1-ad46-77bbcb7f84e1~data=dWlkPTdyckZLTnw1MjJkMzhiMC00OGM1LTQzMGQtYmI5My1hYTQ4YWQ
+
+#EXTINF:-1 tvg-id="new/blastsportshd" tvg-name="Blast Sports" tvg-logo="https://i.ibb.co/q1qZCjk/OIP-3-removebg-preview.png" group-title="PREMIUM SPORTS", Unbeaten
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00721-inverleigh-unbeaten-vizious/playlist.m3u8
 
 
 ```````4K RELAX UHD|3840P````````
