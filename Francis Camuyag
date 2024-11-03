@@ -202,7 +202,7 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/2305/manifest.mpd
 https://bit.ly/4hiUdRY
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/O5jBcL2.png" group-title="Local", Asian Food Network
-https://bit.ly/4fq7CWA
+https://ln.run/7rN1n
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TLC" tvg-logo="https://logo.iptveditor.com/tlc.png" group-title="Local",TLC
 https://dplus.gammacdn.workers.dev/videos/97.m3u8
@@ -223,7 +223,8 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2511/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"L1oxmbJum2k66IGvf/hkzw", "kid":"7fGnFd6XSGON0vrXWkGa8g" } ], "type":"temporary" }
-https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd0222035
+https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/l7p2MpK" group-title="Local", Cartoon Network HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -341,7 +342,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-anc-global-dash-abscb
 https://bit.ly/3UuNquV
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Lotus Macau" tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/mo-macau-lotus-tv-3757.png" group-title="Local",Lotus Macau
-https://wag.ika.lat/stream/801543536
+https://ln.run/iNVd9
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNN International" tvg-logo="http://115.146.176.131:80/images/2acf9495fde07739914e7a7bb3ffee94.png" group-title="Local",CNN International
 http://115.146.176.131/TimRizal/TimRizal/15.m3u8
@@ -500,11 +501,7 @@ https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_hbosign.mpd
 https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_tapactionflix_hd1.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/3YvDUjL.png" group-title="Local", TAP Edge
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0f854034412b11edb8780242ac120002:af8ad1c5e3f2e1b751a4f64608f24275
-https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_tapedge.mpd
+https://ln.run/zPfKe
 
 
 #EXTINF:-1 tvg-id="Dreamworks" group-title="Local" ch-number="612" tvg-logo="https://imgur.com/SASnGFo.png",DreamWorks (English) HD
