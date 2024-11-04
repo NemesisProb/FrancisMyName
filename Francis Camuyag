@@ -1504,6 +1504,9 @@ https://d3is52sgpnlx4c.cloudfront.net/10901/88885515/hls/master.m3u8?withResolut
 #EXTINF:-1 tvg-id="andprivehd.in" tvg-name="" tvg-logo="https://i.ibb.co/3NV1K3t/44aac912fdaf4ddeec87b267da1579c6e3a64e0e9a80fb3c9e1a550df2dc7f1e-removebg-preview.png" group-title="Movie Central",  FilmRise Classic TV
 https://d3is52sgpnlx4c.cloudfront.net/10901/88885509/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885509
 
+#EXTINF:-1 tvg-id="andprivehd.in" tvg-name="" tvg-logo="https://i.ibb.co/3NV1K3t/44aac912fdaf4ddeec87b267da1579c6e3a64e0e9a80fb3c9e1a550df2dc7f1e-removebg-preview.png" group-title="Movie Central",  FilmRise Anime
+https://ln.run/KikId
+
 ```````PREMIUM DOCUMENTARIES```````
 
 #EXTINF:-1 group-logo="https://th.bing.com/th/id/OIP.27BFgqxRt6tKSyvB3EKlYQHaEK?dpr=2.8&pid=ImgDetMain"
