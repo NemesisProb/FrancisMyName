@@ -345,7 +345,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-anc-global-dash-abscb
 https://bit.ly/3UuNquV
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Lotus Macau" tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/mo-macau-lotus-tv-3757.png" group-title="Local",Lotus Macau
-https://ln.run/iNVd9
+http://103.152.216.26:8443/live/BsO7dGIl7sqM1I1tznWCVA/1730804702/167.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNN International" tvg-logo="http://115.146.176.131:80/images/2acf9495fde07739914e7a7bb3ffee94.png" group-title="Local",CNN International
 http://115.146.176.131/TimRizal/TimRizal/15.m3u8
