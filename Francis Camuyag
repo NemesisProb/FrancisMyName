@@ -1567,6 +1567,14 @@ https://bit.ly/3Ykz0yq
 #EXTINF:-1 tvg-id="historytv18hd.in" tvg-name="IN: HISTORY TV (4K)." tvg-logo="https://i.ibb.co/tYVXTKn/1adventure-Earth-1-removebg-preview-1.png" group-title="PREMIUM DOCUMENTARIES", Adventure Earth
 https://autentic-adventure-earth-1-au.lg.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="historytv18hd.in" tvg-name="IN: HISTORY TV (4K)." tvg-logo="https://i.ibb.co/ZJvkFLz/Autentic-History-900x506-removebg-preview.png" group-title="PREMIUM DOCUMENTARIES", Autentic History
+https://autentic-autentichistory-1-au.lg.wurl.tv/playlist.m3u8	
+
+#EXTINF:-1 tvg-id="historytv18hd.in" tvg-name="IN: HISTORY TV (4K)." tvg-logo="https://i.ibb.co/cyzcGKq/wurl-bits-a-travel-removebg-preview.png" group-title="PREMIUM DOCUMENTARIES", Autentic Travel
+https://autentic-autentictravel-1-au.lg.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="historytv18hd.in" tvg-name="IN: HISTORY TV (4K)." tvg-logo="https://i.ibb.co/Scdb73J/tmw-logo-removebg-preview.png" group-title="PREMIUM DOCUMENTARIES", Autentic Terramater Wild 
+https://autentic-terramaterwild-1-at.lg.wurl.tv/playlist.m3u8
 
 ```````RELAXIATION AREA```````
 
