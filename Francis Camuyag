@@ -84,7 +84,7 @@ https://wag.ika.lat/stream/2137749132
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_hd.mpd
 
 #EXTINF:-1 tvg-id="LOCAL.PROGRAMMING.DUMMY.us " tvg-logo="https://alltv.ph/wp-content/uploads/2024/06/LOGO-ALLTV-NEW.png" group-title="Local",ALLTV
-https://ln.run/9HHK3
+https://ln.run/R7aq8
 
 #EXTINF:-1 tvg-id="Local.Programming.Dimmy.us" tvg-logo="https://static.wikia.nocookie.net/russel/images/6/62/DZRH_TV_Logo_November_2021.png/revision/latest?cb=20211215134648" group-title="Local",DZRH TV
 https://ythls.armelin.one/channel/UCcTiBX8js_djhSSlmJRI99A.m3u8
@@ -110,6 +110,9 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono
 
 #EXTINF:-1 tvg-id="KAPAMILYA.CHANNEL.ph" tvg-logo="https://i.imgur.com/fRETRXx.png" group-title="Local",Kapamilya Channel
 https://ln.run/c03PQ
+
+#EXTINF:-1 tvg-id="SOLARFLIX.ph" tvg-logo="https://i.imgur.com/OgBDJ75.png" group-title="Local",SolarFlix
+https://ln.run/JDwG8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/e/e3/TvN_Movies_Pinoy_Logo_2023.png" group-title="Local", tvN Movies Pinoy
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -150,6 +153,12 @@ https://cinemaone-abscbn-ono.amagi.tv/index.m3u8
 
 #EXTINF:-1 tvg-id="Cinema.One.ph" tvg-name="Cinema One" tvg-logo="https://i.imgur.com/moSPpuJ.png" group-title="Local",Cinema One Philippines
 https://ln.run/Zc85c
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Heart of Asia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/79/Heart_of_Asia_3D_Logo.png/revision/latest/scale-to-width-down/250?cb=20200713050134" group-title="Local",Heart of Asia
+https://ln.run/LlUkQ
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="I Heart Movies" tvg-logo="https://static.wikia.nocookie.net/russel/images/4/40/I_Heart_Movies_3D_Logo_2021.png/revision/latest?cb=20220913064316" group-title="Local",I Heart Movies
+https://ln.run/JSTIX
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6mNCite.png" group-title="Local", TMC
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -581,22 +590,17 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/LOVERADIO_MNL.
 
 ````````RESERVED CHANNELS````````
 
+#EXTINF:-1 group-logo="https://st.depositphotos.com/2274151/3306/i/600/depositphotos_33060717-stock-photo-reserved-red-grunge-stamp.jpg"
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Celestial Movies Pinoy" tvg-logo="https://i.imgur.com/e5IZsv3.png" group-title="RESERVED CHANNELS",Celestial Movies Pinoy
 http://103.152.216.26:8443/live/BsO7dGIl7sqM1I1tznWCVA/1730804702/200.m3u8
 
-#EXTINF:-1 tvg-id="SOLARFLIX.ph" tvg-logo="https://i.imgur.com/OgBDJ75.png" group-title="RESERVED CHANNELS",SolarFlix
-http://103.152.216.26:8443/live/BsO7dGIl7sqM1I1tznWCVA/1730804702/115.m3u8
+
 
 #EXTINF:-1 group-logo="https://st.depositphotos.com/2274151/3306/i/600/depositphotos_33060717-stock-photo-reserved-red-grunge-stamp.jpg"
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GTV" tvg-logo="https://imgur.com/sC3yTot.png" group-title="RESERVED CHANNELS",Hallypop!
 http://admin.ganbaruby23.xyz/stream/new/hallypop/master.m3u8?u=4568185514&p=729c795a2e7aa95f684d5c17e6681649b872158019ffce987a14f1b2c51cfef6
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Heart of Asia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/79/Heart_of_Asia_3D_Logo.png/revision/latest/scale-to-width-down/250?cb=20200713050134" group-title="RESERVED CHANNELS",Heart of Asia
-http://admin.ganbaruby23.xyz/stream/new/heartofasia/master.m3u8?u=4568185514&p=729c795a2e7aa95f684d5c17e6681649b872158019ffce987a14f1b2c51cfef6
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="I Heart Movies" tvg-logo="https://static.wikia.nocookie.net/russel/images/4/40/I_Heart_Movies_3D_Logo_2021.png/revision/latest?cb=20220913064316" group-title="RESERVED CHANNELS",I Heart Movies
-http://admin.ganbaruby23.xyz/stream/new/iheartmovies/master.m3u8?u=4568185514&p=729c795a2e7aa95f684d5c17e6681649b872158019ffce987a14f1b2c51cfef6
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pinoy Xtreme" tvg-logo="https://imgur.com/NXb4qmF.png" group-title="RESERVED CHANNELS",Pinoy Hits
 http://admin.ganbaruby23.xyz/stream/new/pinoyhits/master.m3u8?u=4568185514&p=729c795a2e7aa95f684d5c17e6681649b872158019ffce987a14f1b2c51cfef6
@@ -1767,6 +1771,10 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d39387706fe50007fda8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-name="RedBull TV" tvg-logo="https://i.imgur.com/DodPDHv.png" group-title="PREMIUM SPORTS",RedBull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+#EXTINF:-1 tvg-id="new/blastsportshd" tvg-name="Blast Sports" tvg-logo="https://imgur.com/gWx5OlB.png" group-title="PREMIUM SPORTS",Blast Sports
+https://ln.run/vfH6M
+
 ```````4K RELAX UHD|3840P````````
 
 #EXTINF:-1 group-logo="https://i.ibb.co/ZJwMP72/85c82173479365dcfece6488b34f971b.png"
