@@ -9,7 +9,7 @@
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=92834ab4a7e1499b90886c5d49220e46:a7108d9a6cfcc1b7939eb111daf09ab3
-https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/oneph_sd.mpd
+https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/oneph_sd.mpd 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Wv0K5Yc.png" channel-number="2"  group-title="Local", BuKO
 #KODIPROP:inputstreamaddon=inputstream.adaptive
