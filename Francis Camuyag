@@ -1600,6 +1600,12 @@ https://autentic-autentictravel-1-au.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="historytv18hd.in" tvg-name="IN: HISTORY TV (4K)." tvg-logo="https://i.ibb.co/Scdb73J/tmw-logo-removebg-preview.png" group-title="PREMIUM DOCUMENTARIES", Autentic Terramater Wild 
 https://autentic-terramaterwild-1-at.lg.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="historytv18hd.in" tvg-name="IN: HISTORY TV (4K)." tvg-logo="https://i.ibb.co/4MFjQ9f/MV5-BNz-A2-Nz-Rh-Njgt-OWQw-OC00-NDk5-LTk4-ZTkt-ZTc0-ZTRh-Nj-Vk-Yzdj-Xk-Ey-Xk-Fqc-Gde-QXVy-MTYz-MTQ5.png" group-title="PREMIUM DOCUMENTARIES",PBS Nature
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01515-blueskyeenterta-naturetimeemeanl-lgnl/playlist.m3u8
+
+#EXTINF:-1 tvg-id="historytv18hd.in" tvg-name="IN: HISTORY TV (4K)." tvg-logo="https://i.ibb.co/KxXQHvr/logo-maker-for-your-business-removebg-preview.png" group-title="PREMIUM DOCUMENTARIES", Nature Time
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01597-wnetnewyorkpubl-pbsnature-lgus/playlist.m3u8
+
 ```````RELAXIATION AREA```````
 
 #EXTINF:-1 group-logo="https://img.freepik.com/premium-vector/relax-hand-lettering-word-calligraphic-vector-hand-drawn-text-isolated-white-background_110464-1179.jpg"
