@@ -1755,17 +1755,17 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/408/default_primary.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5066/default.mpd
 
 
-#EXTINF: -1 tvg-id = "beINSports3" group-title="PREMIUM SPORTS" ch-number ="819" tvg-logo ="https://aervi.fr/BISTV/Images/logo_beINSports3.png", Bien Sports 3 HD
+#EXTINF: -1 tvg-id = "beINSports3" group-title="PREMIUM SPORTS" ch-number ="819" tvg-logo="https://aervi.fr/BISTV/Images/logo_beINSports3.png", Bien Sports 3 HD
 #KODIPROP:inputstream.adaptive.license_type=Clearkey
 #KODIPROP:inputstream.adaptive.license_key=20c884ef8ed26b2762f8b1a78f2d1910:042a21bf236ca729b1e343ed6e0a6337
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_primary.mpd
 
-#EXTINF:-1 tvg-id = "Eurosport" group-title="PREMIUM SPORTS" ch-number = "820" tvg-logo="https://i.postimg.cc/Hk9h8WsS/Eurosport-White.png", Eurosport HD
+#EXTINF:-1 tvg-id = "Eurosport" group-title="PREMIUM SPORTS" tvg-logo="https://i.ibb.co/mJPQPHH/IMG-20241113-073939.png", Eurosport HD
 #KODIPROP:inputstream.adaptive.license_type=Clearkey
 #KODIPROP:inputstream.adaptive.license_key=4db23a41babfe9afc222a58c59828310:d0e794e3cff564ed2c720a098eb177c7
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2100/default.mpd
 
-#EXTINF:-1 tvg-id = "WWENetwork" group-title="PREMIUM SPORTS" ch-number = "821" tvg-logo="https://i.postimg.cc/wxDcjfB2/WWENetwork-White.png", WWE Network HD
+#EXTINF:-1 tvg-id = "WWENetwork" group-title="PREMIUM SPORTS" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/54422f46-b5b1-4c7d-a86a-d84b3e26e186/dbpwjtg-05e96eff-ba64-4b2e-a765-79db70a78b64.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sIm9iaiI6W1t7InBhdGgiOiIvZi81NDQyMmY0Ni1iNWIxLTRjN2QtYTg2YS1kODRiM2UyNmUxODYvZGJwd2p0Zy0wNWU5NmVmZi1iYTY0LTRiMmUtYTc2NS03OWRiNzBhNzhiNjQucG5nIn1dXX0.lod7grk6b9pPL4CmSzOy8p3A4piC2l-tBpCu-T9uiTY", WWE Network HD
 #KODIPROP:inputstream.adaptive.license_type=Clearkey
 #KODIPROP:inputstream.adaptive.license_key=0cbc4d3b4fbd9af512acb2488bb42910:30528c4ef882954e5707cd1001d66121
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default_primary.mpd
