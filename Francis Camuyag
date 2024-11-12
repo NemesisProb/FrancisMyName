@@ -208,6 +208,9 @@ https://dplus.gammacdn.workers.dev/videos/110.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/Cl_tv_36_ph.png/revision/latest?cb=20130823135759" group-title="Local",CLTV 36
 https://live.cltv36.tv:5443/LiveApp/streams/live.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/nRRvQBg/OIP-5-removebg-preview.png" group-title="Local", SMNI 
+https://1a-1791.com/live/za4hy30t/slot-139/uiik-j0b1_1080p/chunklist_DVR.m3u8
+
 #EXTINF:-1 tvg-id="Nickelodeon" group-title="Local" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/370_144.png" ch-number="616",Nickelodeon
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d8520e96a1283ab6e5be538474bfa810:bda5f7bbc1e44096f779a0619fe9881f
@@ -573,10 +576,11 @@ https://bit.ly/4fm2KBW
 #KODIPROP:inputstream.adaptive.license_key=0559c95496d44fadb94105b9176c3579:40d8bb2a46ffd03540e0c6210ece57ce
 https://qp-pldt-live-grp-08-prod.akamaized.net/out/u/truefm_tv.mpd
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="PH RADIO CHANNELS", LOVE RADIO MANILA
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=645a11b3343f3c5c6b90c532
-https://playerservices.streamtheworld.com/api/livestream-redirect/LOVERADIO_MNL.mp3
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/h9MB92R/wish1075-orig-removebg-preview-1.png" group-title="Local",Wish 107.5
+https://radio.wish1075.com/web/stream/wish.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/kgHGPY2/imageonline-co-glowimage.png" group-title="Local",Super Radyo DZBB
+https://stream.gmanews.tv/ioslive/livestream/playlist.m3u8
 
 
 ````````RESERVED CHANNELS````````
@@ -608,6 +612,22 @@ http://admin.ganbaruby23.xyz/stream/new/pinoyhits/master.m3u8?u=4568185514&p=729
 
 #EXTINF:-1 group-logo="https://allvectorlogo.com/img/2016/03/hd-radio-logo.png"
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="" group-title="PH RADIO CHANNELS",Scream Radio
+https://tunein.cdnstream1.com/3520_96.aac/playlist.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="" group-title="PH RADIO CHANNELS",ESPN RADIO
+https://stream-153.zeno.fm/c3z135w8zxhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJjM3oxMzV3OHp4aHZ2IiwiaG9zdCI6InN0cmVhbS0xNTMuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Ik5ZVldMZ29fUm8tc0RBOFpic2NKVXciLCJpYXQiOjE3MzEzNDgxNzYsImV4cCI6MTczMTM0ODIzNn0.qk_2PTO1UPCyvI4_E-YaQ-deEdkHuV7og34UVRYPgSk
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="" group-title="PH RADIO CHANNELS",Clubmix
+https://stream.zeno.fm/d42hdvx96zhvv
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="" group-title="PH RADIO CHANNELS",Emotions
+https://stream.zeno.fm/03v7z8edgphvv
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="" group-title="PH RADIO CHANNELS",Hot Hip-Hop N R&B
+https://stream.zeno.fm/qrhuqbnm208uv
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="" group-title="PH RADIO CHANNELS",iMix
+https://stream.zeno.fm/xnuifxjgpomvv
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="" group-title="PH RADIO CHANNELS",Rage Music Philippines
+https://stream.zeno.fm/yu9dryfs7x8uv
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="" group-title="PH RADIO CHANNELS",Vibe Radio
+https://stream.zeno.fm/zf0ac4raqy8uv
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="14.3 Global Online Radio" tvg-logo="" group-title="PH RADIO CHANNELS",14.3 Global Online Radio
 http://65.108.124.70:8255/stream
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="81.8 Beshfm – Manila – National Capital Region – PH" tvg-logo="" group-title="PH RADIO CHANNELS",81.8 Beshfm – Manila – National Capital Region – PH
@@ -670,6 +690,12 @@ https://easyrockdavao.radioca.st/
 https://cast3.bntworxtv.com/listen/wings_of_love_fm/stream
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="105.7 Love Radio Roxas – DYML" tvg-logo="" group-title="PH RADIO CHANNELS",105.7 Love Radio Roxas – DYML
 http://loveradioroxas.radioca.st
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="PH RADIO CHANNELS", LOVE RADIO MANILA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=645a11b3343f3c5c6b90c532
+https://playerservices.streamtheworld.com/api/livestream-redirect/LOVERADIO_MNL.mp3
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="105.8 Loving Arms FM – 105.8 FM – PH" tvg-logo="" group-title="PH RADIO CHANNELS",105.8 Loving Arms FM – 105.8 FM – PH
 https://cast3.bntworxtv.com/listen/sonata_fm/radio.mp3
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="106.7 Radyo Natin Agoo – 106.7 FM – Agoo – Ilocos – PH" tvg-logo="" group-title="PH RADIO CHANNELS",106.7 Radyo Natin Agoo – 106.7 FM – Agoo – Ilocos – PH
@@ -1436,8 +1462,6 @@ https://bit.ly/3AkMHFE
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MNET MOVIES 4" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/MZE.png" group-title="Movie Central",M-Net Movies 4
 https://dvrfl06.tulix.tv/astv/astv-mnetmovies4/index.m3u8
 
-
-
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Pix" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Pix_new.png" group-title="Movie Central",Sony Pix
 http://line.clear-ocean.link/play/live.php?mac=00:1A:79:2D:2F:BF&stream=472281&extension=m3u8
 
@@ -1764,6 +1788,12 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d39387706fe50007fda8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-name="RedBull TV" tvg-logo="https://i.imgur.com/DodPDHv.png" group-title="PREMIUM SPORTS",RedBull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-name="RedBull TV" tvg-logo="https://i.ibb.co/NTqmxxj/Hungarian-Fight-Championship-HFC-logo-removebg-preview.png" group-title="PREMIUM SPORTS",Hi Fight Supersport HD
+https://ln.run/4x0dD
+
+#EXTINF:-1 tvg-id="Dummy" tvg-name="RedBull TV" tvg-logo="https://i.ibb.co/wdNVFQV/mma-fighting-logo-vector-14220884-removebg-preview.png" group-title="PREMIUM SPORTS",Top Fight HD
+https://ln.run/NQtPF
 
 ```````4K RELAX UHD|3840P````````
 
