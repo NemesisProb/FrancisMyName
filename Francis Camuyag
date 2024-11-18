@@ -1192,6 +1192,8 @@ http://beanostudios-super-anime-1-gb.lg.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-name="Clubland" tvg-logo="https://imgur.com/Ht9w3sL.png" group-title="PREMIUM MUSIC",Clubland
 http://line.clear-ocean.link/play/live.php?mac=00:1A:79:2D:2F:BF&stream=197575&extension=m3u8
+#EXTINF:-1 channel-id="SamsungTVPlus-USAJ3000013FJ" tvg-id="USAJ3000013FJ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3000013FJ_20240520T212542SQUARE.png" group-title="PREMIUM MUSIC" tvg-chno="4451",NEW KPOP
+https://ln.run/v0lt-
 #EXTINF:-1 channel-id="SamsungTVPlus-USBD300011KQ" tvg-id="USBD300011KQ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300011KQ_20240520T212856SQUARE.png" group-title="PREMIUM MUSIC" tvg-chno="4388",Vevo '70s
 https://ln.run/4DxQD
 #EXTINF:-1 channel-id="SamsungTVPlus-USBD300012YC" tvg-id="USBD300012YC" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300012YC_20240520T212858SQUARE.png" group-title="PREMIUM MUSIC" tvg-chno="4391",Vevo '80s
@@ -1216,8 +1218,60 @@ https://ln.run/0n00t
 https://ln.run/mjY99
 #EXTINF:-1 channel-id="SamsungTVPlus-USBD3000145P" tvg-id="USBD3000145P" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3000145P_20240520T212918SQUARE.png" group-title="PREMIUM MUSIC" tvg-chno="4403",Vevo Retro Rock
 https://ln.run/FTFmU
-#EXTINF:-1 tvg-id="Dummy" tvg-name="Vevo R&B" tvg-logo="hhttps://i.ibb.co/vx9XB4V/Tik-Tok-Radio-Logo-removebg-preview.png" group-title="PREMIUM MUSIC", TikTok Radio
+#EXTINF:-1 channel-id="SamsungTVPlus-USBD35000180U" tvg-id="USBD35000180U" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD35000180U_20240826T191200SQUARE.png" group-title="PREMIUM MUSIC" tvg-chno="4476",Stingray Classic Rock
+https://ln.run/Sjzou
+#EXTINF:-1 channel-id="SamsungTVPlus-USBD350002623" tvg-id="USBD350002623" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD350002623_20240520T212826SQUARE.png" group-title="PREMIUM MUSIC" tvg-chno="4462",Stingray Classica
+https://ln.run/Gk6-B
+#EXTINF:-1 channel-id="SamsungTVPlus-USBD3500025GS" tvg-id="USBD3500025GS" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500025GS_20240826T191202SQUARE.png" group-title="PREMIUM MUSIC" tvg-chno="4456",Stingray DJAZZ
+https://ln.run/iOuXM
+#EXTINF:-1 channel-id="SamsungTVPlus-USBD3500011J3" tvg-id="USBD3500011J3" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500011J3_20240520T212830SQUARE.png" group-title="PREMIUM MUSIC" tvg-chno="4468",Stingray Easy Listening
+https://ln.run/Puf5V
+#EXTINF:-1 channel-id="SamsungTVPlus-USBD3500008IJ" tvg-id="USBD3500008IJ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500008IJ_20240520T212832SQUARE.png" group-title="PREMIUM MUSIC" tvg-chno="4470",Stingray Flashback 70s
+https://ln.run/Wm_ku
+#EXTINF:-1 channel-id="SamsungTVPlus-USBD3500022DN" tvg-id="USBD3500022DN" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500022DN_20240611T050259SQUARE.png" group-title="PREMIUM MUSIC" tvg-chno="4482",Stingray Greatest Hits
+https://ln.run/ErRRG
+#EXTINF:-1 channel-id="SamsungTVPlus-USBD3500010MT" tvg-id="USBD3500010MT" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500010MT_20240520T212836SQUARE.png" group-title="PREMIUM MUSIC" tvg-chno="4478",Stingray Hip Hop
+https://ln.run/eI-jo
+#EXTINF:-1 channel-id="SamsungTVPlus-USBD3300021KV" tvg-id="USBD3300021KV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300021KV_20240826T191205SQUARE.png" group-title="PREMIUM MUSIC" tvg-chno="4480",Stingray Hot Country
+https://ln.run/2tVim
+#EXTINF:-1 channel-id="SamsungTVPlus-USBD35000149S" tvg-id="USBD35000149S" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD35000149S_20240826T191209SQUARE.png" group-title="PREMIUM MUSIC" tvg-chno="4474",Stingray Nothin' But 90s
+https://ln.run/bSPvH
+#EXTINF:-1 channel-id="SamsungTVPlus-USBD3300022QK" tvg-id="USBD3300022QK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300022QK_20240611T050303SQUARE.png" group-title="PREMIUM MUSIC" tvg-chno="4472",Stingray Remember the 80s
+https://ln.run/3WNt4
+#EXTINF:-1 channel-id="SamsungTVPlus-USBD3500017CE" tvg-id="USBD3500017CE" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500017CE_20240520T212846SQUARE.png" group-title="PREMIUM MUSIC" tvg-chno="4466",Stingray Romance Latino
+https://ln.run/ZbyiU
+#EXTINF:-1 channel-id="SamsungTVPlus-USBD35000128A" tvg-id="USBD35000128A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD35000128A_20240520T212848SQUARE.png" group-title="PREMIUM MUSIC" tvg-chno="4460",Stingray Smooth Jazz
+https://ln.run/FBZoB
+#EXTINF:-1 channel-id="SamsungTVPlus-USBD3500016NH" tvg-id="USBD3500016NH" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500016NH_20240520T212852SQUARE.png" group-title="PREMIUM MUSIC" tvg-chno="4454",Stingray Today's K-Pop
+https://ln.run/z2MVV
+#EXTINF:-1 channel-id="SamsungTVPlus-USBD3500009Y3" tvg-id="USBD3500009Y3" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500009Y3_20240520T212854SQUARE.png" group-title="PREMIUM MUSIC" tvg-chno="4464",Stingray Today's Latin Pop
+https://ln.run/29sG_
+#EXTINF:-1 channel-id="SamsungTVPlus-USBD3000145P" tvg-id="USBD3000145P" tvg-logo="https://i.ibb.co/Dt0RW1c/Tik-Tok-Radio-Logo-removebg-preview.png" group-title="PREMIUM MUSIC" tvg-chno="4403",Stingray TikTok Radio
 https://d3is52sgpnlx4c.cloudfront.net/10901/88885552/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885552
+#EXTINF:-1 channel-id="SamsungTVPlus-USBB3200007AK" tvg-id="USBB3200007AK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200007AK_20240702T044853SQUARE.png" group-title="PREMIUM MUSIC" tvg-chno="4318",XITE 90s Throwback
+https://ln.run/qBS18
+#EXTINF:-1 channel-id="SamsungTVPlus-USBD350003932" tvg-id="USBD350003932" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD350003932_20240702T044845SQUARE.png" group-title="PREMIUM MUSIC" tvg-chno="4310",XITE Celebrates
+https://ln.run/7dLIU
+#EXTINF:-1 channel-id="SamsungTVPlus-USBD3300011UT" tvg-id="USBD3300011UT" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300011UT_20240716T002641SQUARE.png" group-title="PREMIUM MUSIC" tvg-chno="4333",XITE Classic Country
+https://ln.run/yaZMe
+#EXTINF:-1 channel-id="SamsungTVPlus-USBD3300006O3" tvg-id="USBD3300006O3" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300006O3_20240716T002639SQUARE.png" group-title="PREMIUM MUSIC" tvg-chno="4328",XITE Country Today
+https://ln.run/hKF52
+#EXTINF:-1 channel-id="SamsungTVPlus-USBD3300004RH" tvg-id="USBD3300004RH" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300004RH_20240716T002643SQUARE.png" group-title="PREMIUM MUSIC" tvg-chno="4323",XITE Hits
+https://ln.run/11nnQ
+#EXTINF:-1 channel-id="SamsungTVPlus-USBD3300005EX" tvg-id="USBD3300005EX" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300005EX_20240716T002645SQUARE.png" group-title="PREMIUM MUSIC" tvg-chno="4358",XITE Icons
+https://ln.run/CqaZ1
+#EXTINF:-1 channel-id="SamsungTVPlus-USBB2300003JZ" tvg-id="USBB2300003JZ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2300003JZ_20240716T002652SQUARE.png" group-title="PREMIUM MUSIC" tvg-chno="4363",XITE Just Chill
+https://ln.run/KI2mS
+#EXTINF:-1 channel-id="SamsungTVPlus-USBD3300007PB" tvg-id="USBD3300007PB" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300007PB_20240520T212941SQUARE.png" group-title="PREMIUM MUSIC" tvg-chno="4338",XITE Nuevo Latino
+https://ln.run/5c7Es
+#EXTINF:-1 channel-id="SamsungTVPlus-USBD3300008DG" tvg-id="USBD3300008DG" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300008DG_20240716T002646SQUARE.png" group-title="PREMIUM MUSIC" tvg-chno="4368",XITE Only Love
+https://ln.run/cpRrf
+#EXTINF:-1 channel-id="SamsungTVPlus-USBD330000948" tvg-id="USBD330000948" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD330000948_20240716T002648SQUARE.png" group-title="PREMIUM MUSIC" tvg-chno="4348",XITE R&B Classic Jams
+https://ln.run/eQAPa
+#EXTINF:-1 channel-id="SamsungTVPlus-USBB2300004KV" tvg-id="USBB2300004KV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2300004KV_20240716T002654SQUARE.png" group-title="PREMIUM MUSIC" tvg-chno="4353",XITE Rock x Metal
+https://ln.run/Dezjw
+#EXTINF:-1 channel-id="SamsungTVPlus-USBD3300010L9" tvg-id="USBD3300010L9" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300010L9_20240520T212947SQUARE.png" group-title="PREMIUM MUSIC" tvg-chno="4343",XITE Siempre Latino
+https://ln.run/_1EUi
 
 
 
@@ -1441,9 +1495,6 @@ http://line.clear-ocean.link/play/live.php?mac=00:1A:79:2D:2F:BF&stream=472273&e
 #EXTINF:-1 tvg-id="Dummy" tvg-name="Star Movies Select HD" tvg-logo="https://i.imgur.com/7OjPgvd.png" group-title="Movie Central",Star Movies Select HD
 http://line.clear-ocean.link/play/live.php?mac=00:1A:79:2D:2F:BF&stream=21109&extension=m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/HDNET_Movies_Logo.png" group-title="Movie Central", HDNET MOVIES 
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/13450
-
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RAKUTEN TV FAMILY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rakuten_TV_logo.svg/768px-Rakuten_TV_logo.svg.png" group-title="Movie Central",RAKUTEN TV FAMILY
 https://rakuten-family-1-eu.rakuten.wurl.tv/2000.m3u8
 
@@ -1467,19 +1518,6 @@ https://fl1001.bozztv.com/ssh101/cinematimetv2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CINEMA TV" tvg-logo="https://www.pngplay.com/wp-content/uploads/6/Cinema-Logo-PNG-HD-Quality.png" group-title="Movie Central",CINEMA TV
 https://rpn.bozztv.com/gusa/gusa-classiccinema/index.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MNET MOVIES 1" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/M1D.png" group-title="Movie Central",M-Net Movies 1
-https://dvrfl06.tulix.tv/astv/astv-mnetmovies1/index.m3u8
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MNET MOVIES 2" tvg-logo="#EXTINF:-1 tvg-id="mmovies2.za" tvg-name="DSTV: M-Net Movies 2 (FHD)" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/MAP.png" group-title="Movie Central",M-Net Movies 2
-https://dvrfl06.tulix.tv/astv/astv-mnetmovies2/index.m3u8
-
-#EXTINF:-1 tvg-id="mmovies3.za" tvg-name="DSTV: M-Net Movies 3 (FHD)" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/MCH.png" group-title="Movie Central",M-Net Movies 3 
-https://bit.ly/3AkMHFE
-
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MNET MOVIES 4" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/MZE.png" group-title="Movie Central",M-Net Movies 4
-https://dvrfl06.tulix.tv/astv/astv-mnetmovies4/index.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Pix" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Pix_new.png" group-title="Movie Central",Sony Pix
 http://line.clear-ocean.link/play/live.php?mac=00:1A:79:2D:2F:BF&stream=472281&extension=m3u8
@@ -1542,7 +1580,7 @@ https://d3is52sgpnlx4c.cloudfront.net/10901/88885515/hls/master.m3u8?withResolut
 https://d3is52sgpnlx4c.cloudfront.net/10901/88885509/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885509
 
 #EXTINF:-1 tvg-id="andprivehd.in" tvg-name="" tvg-logo="https://i.ibb.co/9wWbrNV/1455341b423d13d644edde109522e423732367a2169f552322aa14a614e2654d-removebg-preview.png" group-title="Movie Central",  FilmRise Anime
-https://ln.run/V-1L1
+https://ln.run/TERFL
 
 ```````PREMIUM DOCUMENTARIES```````
 
